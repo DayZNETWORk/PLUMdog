@@ -1,0 +1,2209 @@
+{
+    "Objects": [
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "RemoteDetonator",
+            "pos": [
+                6293.74365234375,
+                14.95547103881836,
+                2884.13037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Plastic_Explosive",
+            "pos": [
+                6294.41064453125,
+                14.980682373046875,
+                2884.776123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ImprovisedExplosive",
+            "pos": [
+                6293.06689453125,
+                15.024499893188477,
+                2883.212646484375
+            ],
+            "ypr": [
+                10.130434036254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        }
+    ]
+}

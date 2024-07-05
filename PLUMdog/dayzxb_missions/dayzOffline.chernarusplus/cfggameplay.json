@@ -1,0 +1,141 @@
+{
+    "version": 122,
+    "GeneralData": {
+        "disableBaseDamage": false,
+        "disableContainerDamage": false,
+        "disableRespawnDialog": false,
+        "disableRespawnInUnconsciousness": true
+    },
+    "PlayerData": {
+        "disablePersonalLight": true,
+        "spawnGearPresetFiles": [
+            "custom/vanillaplus_loadout.json"
+        ],
+        "StaminaData": {
+            "sprintStaminaModifierErc": 0,
+            "sprintStaminaModifierCro": 0,
+            "staminaWeightLimitThreshold": 6000.0,
+            "staminaMax": 100.0,
+            "staminaKgToStaminaPercentPenalty": 0.0,
+            "staminaMinCap": 5.0,
+            "sprintSwimmingStaminaModifier": 0.0,
+            "sprintLadderStaminaModifier": 0.0,
+            "meleeStaminaModifier": 0.0,
+            "obstacleTraversalStaminaModifier": 0.0,
+            "holdBreathStaminaModifier": 0.0
+        },
+        "ShockHandlingData": {
+            "shockRefillSpeedConscious": 5.0,
+            "shockRefillSpeedUnconscious": 3.0,
+            "allowRefillSpeedModifier": true
+        },
+        "MovementData": {
+            "timeToStrafeJog": 0.1,
+            "rotationSpeedJog": 0.1,
+            "timeToSprint": 0.1,
+            "timeToStrafeSprint": 0.1,
+            "rotationSpeedSprint": 0.1,
+            "allowStaminaAffectInertia": true
+        },
+        "DrowningData": {
+            "staminaDepletionSpeed": 10.0,
+            "healthDepletionSpeed": 10.0,
+            "shockDepletionSpeed": 10.0
+        }
+    },
+    "WorldsData": {
+        "lightingConfig": 1,
+        "objectSpawnersArr": [
+            "./custom/BalotaR.json",
+            "./custom/Castleshop.json",
+            "./custom/ChernoR.json",
+            "./custom/clothes.json",
+            "./custom/Darksideshop.json",
+            "./custom/Electro_Remodel_1.json",
+            "./custom/Industrialshop.json",
+            "./custom/Pianohouseshop.json",
+            "./custom/Ruinshop.json",
+            "./custom/Swampshop.json",
+           
+            "./custom/Trainshop.json"
+        ],
+        "environmentMinTemps": [
+            -3.0,
+            -2.0,
+            0.0,
+            4.0,
+            9.0,
+            14.0,
+            18.0,
+            17.0,
+            12.0,
+            7.0,
+            4.0,
+            0.0
+        ],
+        "environmentMaxTemps": [
+            3.0,
+            5.0,
+            7.0,
+            14.0,
+            19.0,
+            24.0,
+            26.0,
+            25.0,
+            21.0,
+            16.0,
+            10.0,
+            5.0
+        ],
+        "wetnessWeightModifiers": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "BaseBuildingData": {
+        "HologramData": {
+            "disableIsCollidingBBoxCheck": true,
+            "disableIsCollidingPlayerCheck": true,
+            "disableIsClippingRoofCheck": true,
+            "disableIsBaseViableCheck": true,
+            "disableIsCollidingGPlotCheck": true,
+            "disableIsCollidingAngleCheck": true,
+            "disableIsPlacementPermittedChecktrue": true,
+            "disableHeightPlacementCheck": true,
+            "disableIsUnderwaterCheck": true,
+            "disableIsInTerrainCheck": false,
+            "disallowedTypesInUnderground": [
+                "FenceKit",
+                "TerritoryFlagKit",
+                "WatchtowerKit"
+            ]
+        },
+        "ConstructionData": {
+            "disablePerformRoofCheck": true,
+            "disableIsCollidingCheck": true,
+            "disableDistanceCheck": true
+        }
+    },
+    "UIData": {
+        "use3DMap": false,
+        "HitIndicationData": {
+            "hitDirectionOverrideEnabled": true,
+            "hitDirectionBehaviour": 1,
+            "hitDirectionStyle": 2,
+            "hitDirectionIndicatorColorStr": "0xffbb0a1e",
+            "hitDirectionMaxDuration": 4.0,
+            "hitDirectionBreakPointRelative": 0.4,
+            "hitDirectionScatter": 10.0,
+            "hitIndicationPostProcessEnabled": false
+        }
+    },
+    "MapData": {
+        "ignoreMapOwnership": true,
+        "ignoreNavItemsOwnership": true,
+        "displayPlayerPosition": true,
+        "displayNavInfo": true
+    }
+}
