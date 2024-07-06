@@ -207,9 +207,9 @@
         </children>
     </event>
     <event name="InfectedArmyHorde">
-        <nominal>15</nominal>
-        <min>13</min>
-        <max>18</max>
+        <nominal>30</nominal>
+        <min>20</min>
+        <max>35</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
