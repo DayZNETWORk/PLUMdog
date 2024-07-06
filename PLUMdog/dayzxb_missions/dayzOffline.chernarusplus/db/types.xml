@@ -13739,10 +13739,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Industrial"/>
     </type>
   <type name="PaydayMask_Chains">
-        <nominal>24</nominal>
+        <nominal>48</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>36</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13753,10 +13753,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Village"/>
     </type>
   <type name="PaydayMask_Dallas">
-        <nominal>24</nominal>
+        <nominal>48</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>36</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13767,10 +13767,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Village"/>
     </type>
   <type name="PaydayMask_Hoxton">
-        <nominal>24</nominal>
+        <nominal>48</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>36</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13781,10 +13781,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Village"/>
     </type>
   <type name="PaydayMask_Wolf">
-        <nominal>24</nominal>
+        <nominal>48</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>1368</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
