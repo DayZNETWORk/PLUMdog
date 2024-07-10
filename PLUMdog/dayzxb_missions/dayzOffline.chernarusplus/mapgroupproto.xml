@@ -12723,6 +12723,7 @@
 		</group>
 		<group name="Wreck_UH1Y" lootmax="15">
 				<usage name="HeliCrash"/>
+				<usage name="Military"/>
 				<container name="lootFloor" lootmax="15">
 						<point pos="1.357636 -1.856922 2.039550" range="0.185402" height="1.756649" flags="32" />
 						<point pos="3.630615 -1.856922 0.478027" range="0.203125" height="0.507813" flags="32" />
@@ -12753,8 +12754,9 @@
 		</group>
 		<group name="Wreck_Mi8" lootmax="15">
 				<usage name="HeliCrash" />
+				<usage name="Military"/>
 				<container name="lootFloor" lootmax="15">
-						<point pos="-1.927728 -1.697937 -0.790661" range="0.134375" height="1.549751" />
+						<point pos="-1.927728 -1.697937 -0.790661" range="0.134375" height="1.549751"  />
 						<point pos="-1.416298 -1.697937 -0.339270" range="0.272949" height="1.520737" />
 						<point pos="0.771750 -1.697937 2.138307" range="0.319800" height="1.469231" />
 						<point pos="-0.713407 -1.697937 0.295482" range="0.330567" height="1.482864" />
@@ -18160,6 +18162,7 @@
 	</group>
 	<group name="Wreck_Mi8_Crashed" lootmax="12">
 			<usage name="HeliCrash" />
+			<usage name="Military" />
 			<container name="lootFloor">
 			<point pos="-2.693787 -1.888990 1.671386" range="0.703328" height="2.000000" flags="32" />
 			<point pos="-1.758788 -1.888990 -2.302246" range="0.597443" height="1.493607" flags="32" />
