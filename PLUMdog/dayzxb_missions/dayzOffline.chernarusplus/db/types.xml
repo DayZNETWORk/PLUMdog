@@ -6917,10 +6917,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
 		<usage name="Military"/>
     </type>
   <type name="AKM">
-        <nominal>8</nominal>
+        <nominal>16</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>8</min>
+        <min>16</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7196,10 +7196,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Military"/>
     </type>
   <type name="FAL">
-        <nominal>12</nominal>
+        <nominal>24</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>24</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12723,10 +12723,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Military"/>
     </type>
   <type name="Mag_AKM_Drum75Rnd">
-        <nominal>12</nominal>
+        <nominal>24</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>24</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12871,10 +12871,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Town"/>
     </type>
   <type name="Mag_FAL_20Rnd">
-        <nominal>12</nominal>
+        <nominal>24</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>12</min>
+        <min>24</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -13068,10 +13068,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Military"/>
     </type>
   <type name="Mag_STANAG_60Rnd">
-        <nominal>12</nominal>
+        <nominal>24</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>24</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
