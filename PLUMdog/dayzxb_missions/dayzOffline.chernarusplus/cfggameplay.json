@@ -56,8 +56,9 @@
             "./custom/Pianohouseshop.json",
             "./custom/Ruinshop.json",
             "./custom/Swampshop.json",
-           
-            "./custom/Trainshop.json"
+            "./custom/Trainshop.json",
+            "./custom/cherno_downtown_evac.json",
+            "./custom/Vavilovo_Compound.json"
         ],
         "environmentMinTemps": [
             -3.0,
