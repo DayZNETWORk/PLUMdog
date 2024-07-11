@@ -1126,21 +1126,6 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "bldr_prop_Barrel_Red",
-            "pos": [
-                6484.91015625,
-                6.0838823318481449,
-                2453.929931640625
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
             "name": "Barrel_Red",
             "pos": [
                 6483.3984375,
@@ -1156,21 +1141,6 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "bldr_prop_Barrel_Red",
-            "pos": [
-                6482.9501953125,
-                6.000120162963867,
-                2452.31005859375
-            ],
-            "ypr": [
-                16.5,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
             "name": "Land_Mil_Fortified_Nest_Small",
             "pos": [
                 6468.27001953125,
@@ -1179,21 +1149,6 @@
             ],
             "ypr": [
                 132.5,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "bldr_mil_fortified_nest_watchtower",
-            "pos": [
-                6472.22998046875,
-                7.979310035705566,
-                2462.3701171875
-            ],
-            "ypr": [
-                -46.4999885559082,
                 0.0,
                 0.0
             ],
@@ -2501,21 +2456,6 @@
                 42.49998092651367,
                 0.0,
                 0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "bldr_HumanSteakMeat",
-            "pos": [
-                6472.78369140625,
-                6.21983528137207,
-                2496.063720703125
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
             ],
             "scale": 1.0,
             "enableCEPersistency": 0
