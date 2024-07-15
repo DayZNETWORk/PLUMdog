@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <map>
+<!-- Cave Entries -->
+	<group name="StaticObj_Shed_Open_Big2_Complete" pos="5754.237305 326.186951 7087.388184" rpy="0.000000 0.000000 9.000000" a="81"/>
+	<group name="Land_Bilboard_Beach" pos="5747.993652 319.728027 7078.513672" rpy="0.000000 0.000000 9.000000" a="81"/>
+	<group name="Land_Farm_Watertower" pos="5842.573242 349.492218 7186.859863" rpy="0.000000 0.000000 -85.943642" a="175.944"/>
+	<group name="Land_Misc_Scaffolding" pos="5760.515137 321.439026 7077.441895" rpy="0.000000 0.000000 -171.000122" a="-98.9999"/>
+	<group name="Land_Tank_Medium_Stairs" pos="5742.637207 319.965393 7062.377930" rpy="0.000000 0.000000 -172.933640" a="-97.0664"/>
+	<group name="Land_Smokestack_Medium" pos="5910.470703 326.468903 7316.955078" rpy="0.000000 0.000000 0.963330" a="89.0367"/>
+	<group name="StaticObj_Boathouse_PierT" pos="5845.737793 328.490112 7217.568848" rpy="0.000000 0.000000 -70.805702" a="160.806"/>
+	<group name="StaticObj_Power_Pole_ConcT" pos="5910.613281 307.198975 7328.759277" rpy="0.000000 0.000000 179.999878" a="-89.9999"/>
+	<group name="Land_Tisy_Base_cooler" pos="5942.992676 307.968140 7389.250977" rpy="0.000000 0.000000 -135.000092" a="-135"/>
+	<group name="StaticObj_Rail_ConcreteRamp" pos="5879.476563 299.543274 7223.763672" rpy="0.000000 0.000000 82.799957" a="7.20004"/>
+	<group name="StaticObj_Rail_PoleTT2" pos="5750.285156 322.713013 7058.137207" rpy="0.000000 0.000000 8.140592" a="81.8594"/>
+	<group name="Land_City_Stand_News1" pos="5760.519043 320.470673 7062.881836" rpy="0.000000 0.000000 98.999931" a="-8.99993"/>
+	<group name="Land_Misc_Toilet_Mobile" pos="5736.718750 319.949493 7078.722656" rpy="0.000000 0.000000 -77.349083" a="167.349"/>
+	<group name="Land_Misc_Toilet_Mobile" pos="5737.168457 319.949493 7082.020508" rpy="0.000000 0.000000 -60.160366" a="150.16"/>
+	<group name="Land_Misc_Well_Pump_Yellow" pos="5752.587891 319.267181 7072.305176" rpy="0.000000 0.000000 103.776451" a="-13.7765"/>
+	<group name="StaticObj_Garbage_Pile1" pos="5746.290527 319.186279 7068.930664" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Garbage_Pile6" pos="5769.268555 318.817780 7117.903320" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="Land_Camp_House_brown" pos="5907.744141 330.529236 7227.233887" rpy="0.000000 0.000000 144.167053" a="-54.1671"/>
+	<group name="Land_Camp_House_brown" pos="5906.395020 329.959595 7237.577148" rpy="0.000000 0.000000 35.449894" a="54.5501"/>
+	<group name="Land_Dead_MassGrave" pos="5903.128906 301.524353 7221.248047" rpy="-2.138039 -4.237659 0.000000" a="90"/>
+	<group name="Bonfire" pos="5893.330078 326.032013 7228.819824" rpy="-179.999924 0.000000 -179.999924" a="-90.0001"/>
+	<group name="StaticObj_Garbage_Pile3" pos="5901.304688 328.457550 7227.848633" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Misc_TirePile_Large" pos="5893.720215 328.683014 7228.939941" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Misc_WoodPile1" pos="5903.807129 328.277313 7231.667969" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="Land_wreck_truck01_aban1_green" pos="5767.073730 318.790588 7087.622559" rpy="0.000000 0.000000 -171.000122" a="-98.9999"/>
+	<group name="Land_Ruin_Slum_House2" pos="5872.658203 330.691559 7225.594238" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Slum_Roof6" pos="5894.100098 329.677002 7229.459961" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Platform2_Stairs_30" pos="5761.082520 316.513123 7088.697266" rpy="0.000000 0.000000 53.355255" a="36.6447"/>
+	<group name="Land_Construction_Building" pos="6105.231445 298.225037 7396.296875" rpy="0.000000 -9.499999 135.000000" a="-45"/>
+	<group name="Land_Sawmill_Building" pos="6058.660156 299.410004 7414.250000" rpy="0.000000 -1.500000 35.999996" a="54"/>
+	<group name="StaticObj_Pipe_Med_BuildL" pos="6072.712402 297.774841 7515.534180" rpy="0.000000 0.000000 116.999779" a="-26.9998"/>
+	<group name="Land_BusStation_building" pos="6065.060547 296.643250 7463.478027" rpy="0.000000 0.000000 18.000000" a="72"/>
+	<group name="Land_Construction_Crane" pos="6116.959961 309.842743 7485.520020" rpy="0.000000 -8.499977 168.565979" a="-78.566"/>
+<!-- Cave #2 Entries -->
+    <group name="Land_Camp_House_red" pos="9735.539063 260.027679 11515.808594" rpy="-0.000000 0.000000 81.646721" a="8.35328"/>
+	<group name="Land_Camp_House_brown" pos="9695.528320 260.403992 11533.705078" rpy="0.000000 0.000000 -83.841309" a="173.841"/>
+	<group name="Land_Camp_House_white" pos="9728.471680 260.170837 11536.676758" rpy="-0.000000 -0.000000 35.999996" a="54"/>
+	<group name="Land_Camp_House_white" pos="9696.795898 259.972015 11513.383789" rpy="0.000000 0.000000 -105.565987" a="-164.434"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9711.770508 258.084717 11519.789063" rpy="-0.000000 0.000000 120.320808" a="-30.3208"/>
+	<group name="Land_Guardhouse" pos="9612.074219 247.949127 11428.265625" rpy="0.000000 0.000000 -54.000038" a="144"/>
 <!-- Downtown Cherno Evac Site entries -->
     <group name="Land_Container_1Moh" pos="6469.009766 7.170000 2465.260010" rpy="0.000000 0.000000 41.499901" a="48.5001"/>
 	<group name="Land_Container_1Moh" pos="6468.015625 7.169921 2467.855225" rpy="0.000000 0.000000 41.499901" a="48.5001"/>
