@@ -88,9 +88,9 @@
     </event>
 <!-- Custom HeliCrash Sites -->
     <event name="StaticHeliTest">
-        <nominal>9</nominal>
+        <nominal>15</nominal>
         <min>9</min>
-        <max>9</max>
+        <max>15</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -128,10 +128,27 @@
             <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_GallusGallusDomesticusF_White"/>
         </children>
     </event>
+    <event name="AmbientHare">
+        <nominal>30</nominal>
+        <min>10</min>
+        <max>40</max>
+        <lifetime>33</lifetime>
+        <restock>15</restock>
+        <saferadius>40</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_LepusEuropaeus"/>
+        </children>
+    </event>
     <event name="AnimalBear">
-        <nominal>0</nominal>
-        <min>2</min>
-        <max>2</max>
+        <nominal>20</nominal>
+        <min>18</min>
+        <max>20</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -277,9 +294,9 @@
         </children>
     </event>
     <event name="AnimalWolf">
-        <nominal>8</nominal>
-        <min>4</min>
-        <max>6</max>
+        <nominal>20</nominal>
+        <min>18</min>
+        <max>20</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -879,7 +896,7 @@
         <children/>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>9</nominal>
+        <nominal>15</nominal>
         <min>9</min>
         <max>15</max>
         <lifetime>2100</lifetime>
@@ -1177,9 +1194,9 @@
         </children>
     </event>
     <event name="VehicleOffroad02">
-        <nominal>10</nominal>
-        <min>10</min>
-        <max>10</max>
+        <nominal>20</nominal>
+        <min>15</min>
+        <max>20</max>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
