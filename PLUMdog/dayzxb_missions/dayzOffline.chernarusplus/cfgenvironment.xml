@@ -33,6 +33,7 @@
 		</territory>
 		<territory type="Herd" name="Wolf" behavior="DZWolfGroupBeh">
 			<file usable="wolf_territories" />
+			<file usable="pig_territories" />
 		</territory>
 		<territory type="Herd" name="WildBoar" behavior="DZDeerGroupBeh">
 			<file usable="wild_boar_territories" />
@@ -42,6 +43,7 @@
 		</territory>
 		<territory type="Herd" name="Bear" behavior="BlissBearGroupBeh">
 			<file usable="bear_territories"/>
+			<file usable="wild_boar_territories" />
 		</territory>
 
 		<!-- HEN -->
@@ -52,14 +54,14 @@
 				<spawn configName="Animal_GallusGallusDomesticus" chance="1" />
 			</agent>
 			<agent type="Female" chance="3">
-				<spawn configName="Animal_GallusGallusDomesticusF_Brown" chance="1" />
-				<spawn configName="Animal_GallusGallusDomesticusF_Spotted" chance="10" />
-				<spawn configName="Animal_GallusGallusDomesticusF_White" chance="20" />
+				<spawn configName="Animal_GallusGallusDomesticusF_Brown" chance="10" />
+				<spawn configName="Animal_GallusGallusDomesticusF_Spotted" chance="20" />
+				<spawn configName="Animal_GallusGallusDomesticusF_White" chance="1" />
 			</agent>
 
 			<item name="globalCountMax" val="50" />
 			<item name="zoneCountMin" val="1" />
-			<item name="zoneCountMax" val="1" />
+			<item name="zoneCountMax" val="3" />
 			<item name="playerSpawnRadiusNear" val="25" />
 			<item name="playerSpawnRadiusFar" val="75" />
 		</territory>
@@ -75,7 +77,7 @@
 				<spawn configName="Animal_LepusEuropaeus" chance="1" />
 			</agent>
 
-			<item name="globalCountMax" val="0" />
+			<item name="globalCountMax" val="30" />
 			<item name="zoneCountMin" val="3" />
 			<item name="zoneCountMax" val="5" />
 			<item name="playerSpawnRadiusNear" val="15" />
