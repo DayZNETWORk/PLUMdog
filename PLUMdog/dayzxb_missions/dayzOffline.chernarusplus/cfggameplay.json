@@ -9,10 +9,10 @@
     "PlayerData": {
         "disablePersonalLight": true,
         "spawnGearPresetFiles": [
-            "custom/player_loadouts/shadowpayday1.json",
-            "custom/player_loadouts/shadowpayday2.json",
-            "custom/player_loadouts/shadowpayday3.json",
-            "custom/player_loadouts/shadowpayday4.json"
+            "custom/shadowpayday1.json",
+            "custom/shadowpayday2.json",
+            "custom/shadowpayday3.json",
+            "custom/shadowpayday4.json"
         ],
         "StaminaData": {
             "sprintStaminaModifierErc": 0,
@@ -62,9 +62,9 @@
             "./custom/Trainshop.json",
             "./custom/cherno_downtown_evac.json",
             "./custom/Vavilovo_Compound.json",
-            "./converted-cave_build.json",
-            "./converted-remcave.json",
-            "./FINALIZEVOL3FIX.json"
+            "./custom/converted-cave_build.json",
+            "./custom/converted-remcave.json",
+            "./custom/FINALIZELVOL3FIX.json"
         ],
         "environmentMinTemps": [
             -3.0,
