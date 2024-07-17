@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <types>
-  
-  <!--
-
-THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE THE AVAILABLE CATEGORIES:
-
-[AMMO]
-[ANIMALS]
-[ARMBANDS]
-[ATTACHMENTS]
-[BAGS]
-[BELTS]
-[GASGEAR]
-[GASMASKS]
-[FEET]
-[CLOTHING]
-[CLOTHINGIMPROVISED]
-[HANDHELD]
-[FIREARMS]
-[FOOD]
-[FLAGS]
-[GHILLIES]
-[GLOVES]
-[NADES&TRAPS]
-[HATS]
-[HELMETS]
-[LANDNAMES]
-[LIGHTS]
-[MAGAZINES]
-[MASKS]
-[MEDICALS]
-[MELEE]
-[MISC]
-[NAVIGATION]
-[PELTS]
-[PLANTS]
-[SCOPES]
-[SEEDS]
-[STATICOBJECTS]
-[STORAGE]
-[SUPPLIES]
-[SUPPRESSORS]
-[TACTICALS]
-[TOOLS]
-[VESTS]
-[VEHICLES]
-[VEHICLEPARTS]
-[ZOMBIES]
-[MISSEDITEMS]-->
-  <!-- #################### AMMO #################### -->
+<!-- #################### AMMO #################### -->
   <type name="AmmoBox_00buck_10rnd">
         <nominal>96</nominal>
         <lifetime>28800</lifetime>
@@ -731,7 +683,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Hunting"/>
+    <usage name="Hunting"/>
     </type>
   <type name="Ammo_ImprovisedBolt_2">
         <nominal>0</nominal>
@@ -743,10 +695,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Hunting"/>
+    <usage name="Hunting"/>
     </type>
   
-  <!-- #################### ANIMALS #################### -->
+<!-- #################### ANIMALS #################### -->
   <type name="Animal_BosTaurusF_Brown">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
@@ -998,7 +950,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
   
-  <!-- #################### ARMBANDS #################### -->
+<!-- #################### ARMBANDS #################### -->
   <type name="Armband_APA">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -1009,7 +961,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Altis">
@@ -1022,7 +974,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_BabyDeer">
@@ -1035,7 +987,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Bear">
@@ -1048,7 +1000,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Black">
@@ -1061,7 +1013,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Blue">
@@ -1074,7 +1026,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Bohemia">
@@ -1087,7 +1039,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_BrainZ">
@@ -1100,7 +1052,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_CDF">
@@ -1113,7 +1065,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_CHEL">
@@ -1126,7 +1078,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_CMC">
@@ -1139,7 +1091,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Cannibals">
@@ -1152,7 +1104,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Chedaki">
@@ -1165,7 +1117,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Chernarus">
@@ -1178,7 +1130,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Crook">
@@ -1191,7 +1143,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_DayZ">
@@ -1204,7 +1156,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Green">
@@ -1217,7 +1169,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_HunterZ">
@@ -1230,7 +1182,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Livonia">
@@ -1243,7 +1195,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_LivoniaArmy">
@@ -1256,7 +1208,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_LivoniaPolice">
@@ -1269,7 +1221,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_NAPA">
@@ -1282,7 +1234,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_NSahrani">
@@ -1295,7 +1247,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Orange">
@@ -1308,7 +1260,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Pink">
@@ -1321,7 +1273,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Pirates">
@@ -1334,7 +1286,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_RSTA">
@@ -1347,7 +1299,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Red">
@@ -1360,7 +1312,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Refuge">
@@ -1373,7 +1325,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Rex">
@@ -1386,7 +1338,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Rooster">
@@ -1399,7 +1351,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_SSahrani">
@@ -1412,7 +1364,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Snake">
@@ -1425,7 +1377,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_TEC">
@@ -1438,7 +1390,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_UEC">
@@ -1451,7 +1403,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_White">
@@ -1464,7 +1416,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+    <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Wolf">
@@ -1477,7 +1429,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Yellow">
@@ -1490,7 +1442,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Zagorky">
@@ -1503,7 +1455,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Armband_Zenit">
@@ -1516,11 +1468,11 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   
-  <!-- #################### ATTACHMENTS #################### -->
+<!-- #################### ATTACHMENTS #################### -->
   <type name="AK74_Hndgrd">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -1579,7 +1531,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="AK_FoldingBttstck_Green">
         <nominal>0</nominal>
@@ -1591,7 +1543,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="AK_PlasticBttstck">
         <nominal>0</nominal>
@@ -1615,7 +1567,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="AK_PlasticBttstck_Green">
         <nominal>0</nominal>
@@ -1627,7 +1579,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="AK_PlasticHndgrd">
         <nominal>0</nominal>
@@ -1663,7 +1615,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="AK_RailHndgrd_Green">
         <nominal>0</nominal>
@@ -1675,7 +1627,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="AK_WoodBttstck">
         <nominal>0</nominal>
@@ -1699,7 +1651,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="AK_WoodBttstck_Camo">
         <nominal>0</nominal>
@@ -1711,7 +1663,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="AK_WoodHndgrd">
         <nominal>0</nominal>
@@ -1735,7 +1687,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="AK_WoodHndgrd_Camo">
         <nominal>0</nominal>
@@ -1747,7 +1699,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="Fal_FoldingBttstck">
         <nominal>0</nominal>
@@ -1855,7 +1807,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="M4_RISHndgrd_Green">
         <nominal>0</nominal>
@@ -1867,7 +1819,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="MP5_Compensator">
         <nominal>0</nominal>
@@ -1942,7 +1894,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Military"/>
     </type>
   
-  <!-- #################### BAGS #################### -->
+<!-- #################### BAGS #################### -->
   <type name="AliceBag_Black">
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
@@ -2136,7 +2088,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="CoyoteBag_Brown">
@@ -2245,7 +2197,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-		<usage name="Farm"/>
+        <usage name="Farm"/>
     </type>
   <type name="DrysackBag_Orange">
         <nominal>10</nominal>
@@ -2257,7 +2209,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-		<usage name="Farm"/>
+        <usage name="Farm"/>
     </type>
   <type name="DrysackBag_Yellow">
         <nominal>10</nominal>
@@ -2269,7 +2221,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
-		<usage name="Farm"/>
+        <usage name="Farm"/>
     </type>
   <type name="DuffelBagSmall_Camo">
         <nominal>15</nominal>
@@ -2399,8 +2351,8 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-		<usage name="Hunting"/>
-		<usage name="Town"/>
+        <usage name="Hunting"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="ImprovisedBag">
@@ -2651,7 +2603,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Coast"/>
     </type>
   
-  <!-- #################### BELTS #################### -->
+<!-- #################### BELTS #################### -->
   <type name="CivilianBelt">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -2733,7 +2685,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <category name="clothes"/>
     </type>
  
-  <!-- #################### GASGEAR #################### -->
+<!-- #################### GASGEAR #################### -->
   <type name="NBCBootsGray">
         <nominal>6</nominal>
         <lifetime>14400</lifetime>
@@ -2866,7 +2818,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Firefighter"/>
     </type>
   
-  <!-- #################### GASMASKS #################### -->
+<!-- #################### GASMASKS #################### -->
   <type name="AirborneMask">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -2930,7 +2882,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <category name="clothes"/>
     </type>
  
-  <!-- #################### FEET #################### -->
+<!-- #################### FEET #################### -->
   <type name="AthleticShoes_Black">
         <nominal>25</nominal>
         <lifetime>900</lifetime>
@@ -3681,7 +3633,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Village"/>
     </type>
   
-  <!-- #################### CLOTHING #################### -->
+<!-- #################### CLOTHING #################### -->
   <type name="BDUJacket">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -6370,7 +6322,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="SeasonalEvent"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="USMCJacket_Desert">
@@ -6765,7 +6717,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Village"/>
     </type>
   
-  <!-- #################### CLOTHINGIMPROVISED #################### -->
+<!-- #################### CLOTHINGIMPROVISED #################### -->
   <type name="EyePatch_Improvised">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -6844,7 +6796,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <category name="clothes"/>
     </type>
  
-  <!-- #################### FIREARMS #################### -->
+<!-- #################### FIREARMS #################### -->
   <type name="AK101">
         <nominal>48</nominal>
         <lifetime>28800</lifetime>
@@ -6867,7 +6819,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="AK101_Green">  <!-- gun rack -->
         <nominal>96</nominal>
@@ -6902,7 +6854,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="AK74_Green">
         <nominal>0</nominal>
@@ -6914,18 +6866,18 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="AKM">
-        <nominal>16</nominal>
+        <nominal>30</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>16</min>
+        <min>30</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		    <category name="weapons"/>
+        <category name="weapons"/>
         <usage name="HeliCrash"/>
     </type>
   <type name="AKS74U">
@@ -6950,7 +6902,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+    <usage name="Military"/>
     </type>
   <type name="AKS74U_Green">
         <nominal>0</nominal>
@@ -6962,32 +6914,32 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Military"/>
+    <usage name="Military"/>
     </type>
   <type name="ASVAL">
-        <nominal>12</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>12</min>
+        <min>15</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
+        <category name="weapons"/>
         <usage name="HeliCrash"/>
     </type>
   <type name="Aug">
-        <nominal>12</nominal>
+        <nominal>15</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>12</min>
+        <min>15</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		    <category name="weapons"/>
+        <category name="weapons"/>
         <usage name="HeliCrash"/>
-  </type>
+   </type>
   <type name="AugShort">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -6999,7 +6951,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
-  </type>
+   </type>
   <type name="B95">
         <nominal>48</nominal>
         <lifetime>28800</lifetime>
@@ -7011,6 +6963,8 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Hunting"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
   <type name="CZ527">
         <nominal>48</nominal>
@@ -7062,6 +7016,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <category name="weapons"/>
         <usage name="Police"/>
         <usage name="Village"/>
+        <usage name="Town"/>
     </type>
   <type name="Colt1911">
         <nominal>50</nominal>
@@ -7076,7 +7031,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Military"/>
     </type>
   <type name="Crossbow_Autumn">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -7088,7 +7043,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Hunting"/>
     </type>
   <type name="Crossbow_Black">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -7100,7 +7055,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Town"/>
     </type>
   <type name="Crossbow_Summer">
-        <nominal>5</nominal>
+        <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -7112,10 +7067,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Hunting"/>
     </type>
   <type name="Crossbow_Wood">
-        <nominal>5</nominal>
+        <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>15</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7157,7 +7112,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
     </type>
   <type name="Derringer_Grey">
         <nominal>0</nominal>
@@ -7181,7 +7136,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
     </type>
   <type name="Engraved1911">
         <nominal>48</nominal>
@@ -7199,24 +7154,24 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <nominal>24</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>24</min>
+        <min>36</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
-		<usage name="HeliCrash"/>
+        <category name="weapons"/>
+        <usage name="HeliCrash"/>
     </type>
   <type name="FAMAS">
         <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>2</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
+        <category name="weapons"/>
         <usage name="HeliCrash"/>
     </type>
   <type name="FNX45">
@@ -7248,10 +7203,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Coast"/>
     </type>
   <type name="Glock19">
-        <nominal>48</nominal>
+        <nominal>60</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>48</min>
+        <min>60</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7345,8 +7300,8 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
-		<usage name="HeliCrash"/>
+    <category name="weapons"/>
+    <usage name="HeliCrash"/>
     </type>
   <type name="M4A1_Black">
         <nominal>0</nominal>
@@ -7384,10 +7339,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <value name="Unique"/>
     </type>
   <type name="MKII">
-        <nominal>75</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>75</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7407,7 +7362,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
+        <usage name="Police"/>
     </type>
   <type name="Magnum">
         <nominal>60</nominal>
@@ -7480,7 +7435,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="Racked"/>
+    <usage name="Racked"/>
     </type>
   <type name="Mp133Shotgun">
         <nominal>30</nominal>
@@ -7493,6 +7448,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Police"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
+        <usage name="Hunting"/>
     </type>
   <type name="P1">
         <nominal>75</nominal>
@@ -7518,12 +7477,13 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <usage name="Police"/>
     </type>
   <type name="Repeater">
-        <nominal>50</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>10</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7533,10 +7493,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Village"/>
     </type>
   <type name="Ruger1022">
-        <nominal>75</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>75</min>
+        <min>20</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7556,12 +7516,14 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
   <type name="SSG82">
-        <nominal>25</nominal>
+        <nominal>35</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>35</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7570,16 +7532,16 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Police"/>
     </type>
   <type name="SVD">
-        <nominal>12</nominal>
+        <nominal>15</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>12</min>
+        <min>15</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="weapons"/>
-		<usage name="HeliCrash"/>
+        <category name="weapons"/>
+        <usage name="HeliCrash"/>
     </type>
   <type name="SV98">
         <nominal>25</nominal>
@@ -7592,6 +7554,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <usage name="Police"/>
     </type>
   <type name="Saiga">
         <nominal>48</nominal>
@@ -7762,17 +7725,18 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <usage name="Police"/>
     </type>
   <type name="VSS">
-        <nominal>12</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>12</min>
+        <min>15</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
+        <category name="weapons"/>
         <usage name="HeliCrash"/>
     </type>
   <type name="Vikhr">
@@ -7790,7 +7754,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
   <type name="Winchester70">
         <nominal>65</nominal>
         <lifetime>28800</lifetime>
-		<restock>0</restock>
+        <restock>0</restock>
         <min>65</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
@@ -7798,9 +7762,10 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Hunting"/>
+        <usage name="Farm"/>
     </type>
   
-  <!-- #################### FOOD #################### -->
+<!-- #################### FOOD #################### -->
   <type name="AgaricusMushroom">
         <nominal>0</nominal>
         <lifetime>900</lifetime>
@@ -7822,7 +7787,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="AuriculariaMushroom">
@@ -7860,7 +7825,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
-		<tag name="shelves"/>
+        <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -8895,7 +8860,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="food"/>
+        <category name="food"/>
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Village"/>
@@ -8973,7 +8938,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Village"/>
     </type>
   
-  <!-- #################### FLAGS #################### -->
+<!-- #################### FLAGS #################### -->
   <type name="Flag_APA">
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
@@ -8984,7 +8949,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Flag_Altis">
@@ -8997,7 +8962,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Flag_BabyDeer">
@@ -9023,7 +8988,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Flag_Bohemia">
@@ -9049,7 +9014,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Flag_CDF">
@@ -9140,7 +9105,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Flag_DayZ">
@@ -9179,7 +9144,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Flag_LivoniaArmy">
@@ -9192,7 +9157,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Flag_LivoniaPolice">
@@ -9205,7 +9170,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Flag_NAPA">
@@ -9231,7 +9196,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Flag_Pirates">
@@ -9283,7 +9248,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Flag_Rooster">
@@ -9309,7 +9274,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Flag_Snake">
@@ -9387,7 +9352,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="Flag_Zenit">
@@ -9404,7 +9369,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="School"/>
     </type>
   
-  <!-- #################### GHILLIES #################### -->
+<!-- #################### GHILLIES #################### -->
   <type name="GhillieAtt_Mossy">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -9576,7 +9541,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <category name="clothes"/>
     </type>
  
-  <!-- #################### GLOVES #################### -->
+<!-- #################### GLOVES #################### -->
   <type name="LeatherGloves_Beige">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -9964,7 +9929,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Farm"/>
     </type>
   
-  <!-- #################### NADES&TRAPS #################### -->
+<!-- #################### NADES&TRAPS #################### -->
   <type name="BearTrap">
         <nominal>48</nominal>
         <lifetime>604800</lifetime>
@@ -9998,7 +9963,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="tools"/>
+        <category name="tools"/>
         <usage name="Farm"/>
     </type>
   <type name="FishNetTrap">
@@ -10033,7 +9998,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<usage name="HeliCrash"/>
+        <usage name="HeliCrash"/>
     </type>
   <type name="ImprovisedExplosive">
         <nominal>0</nominal>
@@ -10250,7 +10215,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <category name="tools"/>
     </type>
   
-  <!-- #################### HATS #################### -->
+<!-- #################### HATS #################### -->
   <type name="BaseballCap_Beige">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -11225,8 +11190,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <tag name="shelves"/>
         <usage name="Village"/>
     </type>
- 
-  <!-- #################### HELMETS #################### -->
+<!-- #################### HELMETS #################### -->
   <type name="BallisticHelmet_BDU">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -11873,7 +11837,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Historical"/>
+        <usage name="Historical"/>
     </type>
   <type name="PumpkinHelmet">
         <nominal>0</nominal>
@@ -11990,7 +11954,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Military"/>
     </type>
   
-  <!-- #################### LANDNAMES #################### -->
+<!-- #################### LANDNAMES #################### -->
   <type name="Land_Container_1Aoh_DE">
         <nominal>0</nominal>
         <lifetime>0</lifetime>
@@ -12443,7 +12407,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
   
-  <!-- #################### LIGHTS #################### -->
+<!-- #################### LIGHTS #################### -->
   <type name="Chemlight_Blue">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -12661,7 +12625,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Village"/>
     </type>
   
-  <!-- #################### MAGAZINES #################### -->
+ <!-- #################### MAGAZINES #################### -->
   <type name="Mag_1911_7Rnd">
         <nominal>75</nominal>
         <lifetime>14400</lifetime>
@@ -12731,7 +12695,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
+        <category name="weapons"/>
         <usage name="HeliCrash"/>
     </type>
   <type name="Mag_AKM_Palm30Rnd">
@@ -12755,7 +12719,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
+        <category name="weapons"/>
         <usage name="HeliCrash"/>
     </type>
   <type name="Mag_CMAG_10Rnd">
@@ -12803,8 +12767,8 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
-		<usage name="HeliCrash"/>
+        <category name="weapons"/>
+        <usage name="HeliCrash"/>
     </type>
   <type name="Mag_CZ527_5rnd">
         <nominal>96</nominal>
@@ -12879,7 +12843,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
+        <category name="weapons"/>
         <usage name="HeliCrash"/>
     </type>
   <type name="Mag_FAMAS_25Rnd">
@@ -12891,7 +12855,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
+        <category name="weapons"/>
         <usage name="HeliCrash"/>
     </type>
   <type name="Mag_FNX45_15Rnd">
@@ -13076,8 +13040,8 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
-		<usage name="HeliCrash"/>
+        <category name="weapons"/>
+        <usage name="HeliCrash"/>
     </type>
   <type name="Mag_SVD_10Rnd">
         <nominal>12</nominal>
@@ -13088,7 +13052,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="weapons"/>
+        <category name="weapons"/>
         <usage name="HeliCrash"/>
     </type>
   <type name="Mag_SV98_10Rnd">
@@ -13137,8 +13101,8 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
-		<usage name="HeliCrash"/>
+        <category name="weapons"/>
+        <usage name="HeliCrash"/>
     </type>
   <type name="Mag_Scout_5Rnd">
         <nominal>15</nominal>
@@ -13173,8 +13137,8 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
-		<usage name="HeliCrash"/>
+        <category name="weapons"/>
+        <usage name="HeliCrash"/>
     </type>
   <type name="Mag_VSS_10Rnd">
         <nominal>12</nominal>
@@ -13185,8 +13149,8 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
-		<usage name="HeliCrash"/>
+        <category name="weapons"/>
+        <usage name="HeliCrash"/>
     </type>
   <type name="Mag_Vikhr_30Rnd">
         <nominal>65</nominal>
@@ -13201,7 +13165,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Military"/>
     </type>
   
-  <!-- #################### MASKS #################### -->
+<!-- #################### MASKS #################### -->
   <type name="AviatorGlasses">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -13463,7 +13427,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Lunapark"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="EyeMask_Blue">
@@ -13477,7 +13441,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Lunapark"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="EyeMask_Christmas">
@@ -13578,7 +13542,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Lunapark"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="MimeMask_Male">
@@ -13592,7 +13556,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Lunapark"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
   <type name="NioshFaceMask">
@@ -13794,7 +13758,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-  <!-- #################### MEDICALS #################### -->
+<!-- #################### MEDICALS #################### -->
   <type name="AntiChemInjector">
         <nominal>12</nominal>
         <lifetime>7200</lifetime>
@@ -13804,7 +13768,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
+        <category name="weapons"/>
         <usage name="HeliCrash"/>
     </type>
   <type name="BandageDressing">
@@ -14014,7 +13978,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
-		<tag name="shelves"/>
+        <tag name="shelves"/>
         <usage name="Medic"/>
     </type>
   <type name="Splint">
@@ -14094,7 +14058,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Village"/>
     </type>
  
-  <!-- #################### MELEE #################### -->
+<!-- #################### MELEE #################### -->
   <type name="AK_Bayonet">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -14117,9 +14081,9 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
-		<usage name="Town"/>
+        <usage name="Town"/>
         <usage name="Village"/>
-		<usage name="Farm"/>
+        <usage name="Farm"/>
     </type>
   <type name="BaseballBat">
         <nominal>50</nominal>
@@ -14197,7 +14161,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="tools"/>
+        <category name="tools"/>
         <usage name="SeasonalEvent"/>
     </type>
   <type name="CanOpener">
@@ -14485,7 +14449,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <category name="tools"/>
     </type>
   
-  <!-- #################### MISC #################### -->
+<!-- #################### MISC #################### -->
   <type name="BaseRadio">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -14528,7 +14492,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="tools"/>
+        <category name="tools"/>
         <usage name="SeasonalEvent"/>
     </type>
   <type name="ChickenFeather">
@@ -14853,7 +14817,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	</type>
+   </type>
   <type name="Wreck_SantasSleigh">
         <nominal>0</nominal>
         <lifetime>3</lifetime>
@@ -14873,9 +14837,8 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	</type>
-  
-  <!-- #################### NAVIGATION #################### -->
+   </type>
+<!-- #################### NAVIGATION #################### -->
   <type name="ChernarusMap">
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
@@ -14943,7 +14906,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Hunting"/>
     </type>
  
-  <!-- #################### PELTS #################### -->
+<!-- #################### PELTS #################### -->
   <type name="BearPelt">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -15044,7 +15007,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <category name="tools"/>
     </type>
  
-  <!-- #################### PLANTS #################### -->
+<!-- #################### PLANTS #################### -->
   <type name="PlantMaterial">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -15112,7 +15075,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <category name="tools"/>
     </type>
   
-  <!-- #################### SCOPES #################### -->
+<!-- #################### SCOPES #################### -->
   <type name="ACOGOptic">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -15296,7 +15259,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Hunting"/>
-		<usage name="Police"/>
+        <usage name="Police"/>
     </type>
   <type name="ReflexOptic">
         <nominal>0</nominal>
@@ -15319,11 +15282,11 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
-		<usage name="HeliCrash"/>
+        <category name="weapons"/>
+    <usage name="HeliCrash"/>
     </type>
   
-  <!-- #################### SEEDS #################### -->
+<!-- #################### SEEDS #################### -->
   <type name="PepperSeeds">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -15417,7 +15380,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Farm"/>
     </type>
   
-  <!-- #################### STATICOBJECTS #################### -->
+<!-- #################### STATICOBJECTS #################### -->
   <type name="StaticObj_Decal_damage_long2_DE">
         <nominal>0</nominal>
         <lifetime>0</lifetime>
@@ -15699,7 +15662,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
   
-  <!-- #################### STORAGE #################### -->
+<!-- #################### STORAGE #################### -->
   <type name="AmmoBox">
         <nominal>12</nominal>
         <lifetime>3888000</lifetime>
@@ -15709,9 +15672,8 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
-		<usage name="HeliCrash"/>
-        
+        <category name="weapons"/>
+        <usage name="HeliCrash"/>
     </type>
   <type name="AnniversaryBox">
         <nominal>10</nominal>
@@ -16308,7 +16270,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <category name="containers"/>
     </type>
   
-  <!-- #################### SUPPLIES #################### -->
+<!-- #################### SUPPLIES #################### -->
   <type name="AlarmClock_Blue">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
@@ -16364,7 +16326,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
-		<usage name="Coast"/>
+        <usage name="Coast"/>
     </type>
   <type name="BarbedWire">
         <nominal>96</nominal>
@@ -16814,7 +16776,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
-		<tag name="shelves"/>
+        <tag name="shelves"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
     </type>
@@ -17032,7 +16994,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <category name="tools"/>
     </type>
   
-  <!-- #################### SUPPRESSORS #################### -->
+<!-- #################### SUPPRESSORS #################### -->
   <type name="AK_Suppressor">
         <nominal>12</nominal>
         <lifetime>9800</lifetime>
@@ -17064,7 +17026,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-		<category name="weapons"/>
+        <category name="weapons"/>
         <usage name="HeliCrash"/>
     </type>
   <type name="PistolSuppressor">
@@ -17081,7 +17043,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Police"/>
     </type>
   
-  <!-- #################### TACTICALS #################### -->
+<!-- #################### TACTICALS #################### -->
   <type name="Binoculars">
         <nominal>50</nominal>
         <lifetime>14400</lifetime>
@@ -17160,7 +17122,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-		<usage name="Lunapark"/>
+        <usage name="Lunapark"/>
     </type>
   <type name="AntiPestsSpray">
         <nominal>24</nominal>
@@ -17172,7 +17134,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
-		<usage name="Farm"/>
+        <usage name="Farm"/>
     </type>
   <type name="BatteryCharger">
         <nominal>30</nominal>
@@ -17208,7 +17170,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
-		<usage name="Hunting"/>
+        <usage name="Hunting"/>
     </type>
   <type name="Crowbar">
         <nominal>70</nominal>
@@ -17477,7 +17439,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
-		<usage name="Medic"/>
+        <usage name="Medic"/>
     </type>
   <type name="NylonKnifeSheath">
         <nominal>30</nominal>
@@ -17677,7 +17639,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Village"/>
     </type>
  
-  <!-- #################### VESTS #################### -->
+<!-- #################### VESTS #################### -->
   <type name="ChestHolster">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -17806,7 +17768,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="PlateCarrierHolster_Camo">
         <nominal>0</nominal>
@@ -17830,7 +17792,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="PlateCarrierPouches">
         <nominal>0</nominal>
@@ -17855,7 +17817,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-		<tag name="shelves"/>
+        <tag name="shelves"/>
         <usage name="Military"/>
     </type>
   <type name="PlateCarrierPouches_Camo">
@@ -17880,7 +17842,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="PlateCarrierVest">
         <nominal>0</nominal>
@@ -17904,7 +17866,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="PlateCarrierVest_Camo">
         <nominal>0</nominal>
@@ -17928,7 +17890,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
     </type>
   <type name="PoliceVest">
         <nominal>20</nominal>
@@ -18041,7 +18003,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <usage name="Military"/>
     </type>
   
-  <!-- #################### VEHICLES #################### -->
+<!-- #################### VEHICLES #################### -->
   <type name="CivilianSedan">
         <nominal>0</nominal>
         <lifetime>3</lifetime>
@@ -18203,7 +18165,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
   
-  <!-- #################### VEHICLEPARTS #################### -->
+<!-- #################### VEHICLEPARTS #################### -->
   <type name="CivSedanDoors_BackLeft">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -20307,7 +20269,7 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <category name="lootdispatch"/>
     </type>
  
-  <!-- #################### ZOMBIES #################### -->
+<!-- #################### ZOMBIES #################### -->
   <type name="ZmbF_BlueCollarFat_Blue">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
@@ -21909,19 +21871,19 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
   
-  <!-- #################### MISSEDITEMS #################### -->
+<!-- #################### MISSEDITEMS #################### -->
   <type name="HescoBox">
-		<nominal>50</nominal>
-		<lifetime>3880000</lifetime>
-		<restock>0</restock>
-		<min>50</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="tools"/>
-		<usage name="Industrial"/>
-	</type>
+    <nominal>50</nominal>
+    <lifetime>3880000</lifetime>
+    <restock>0</restock>
+    <min>50</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Industrial"/>
+   </type>
   <type name="Winchester70_Black">  <!-- gun rack -->
         <nominal>96</nominal>
         <lifetime>7200</lifetime>
@@ -21931,74 +21893,74 @@ THE QUICKEST AND EASIEST WAY TO FIND A CATEGORY IS PRESSING CTRL + F. THESE ARE 
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="Racked"/>
-	</type>
+    <usage name="Racked"/>
+   </type>
   <type name="Vodka">
-		<nominal>50</nominal>
-		<lifetime>1800</lifetime>
-		<restock>0</restock>
-		<min>50</min>
-		<quantmin>100</quantmin>
-		<quantmax>100</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="food"/>
-		<usage name="Hunting"/>
-	</type>
+    <nominal>50</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>50</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="food"/>
+    <usage name="Hunting"/>
+   </type>
   <type name="CannabisSeedsPack">
-		<nominal>50</nominal>
-		<lifetime>3600</lifetime>
-		<restock>0</restock>
-		<min>50</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="food"/>
-		<usage name="Farm"/>
-		<usage name="Hunting"/>
-	</type>
+    <nominal>50</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>50</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="food"/>
+    <usage name="Farm"/>
+    <usage name="Hunting"/>
+   </type>
   <type name="CigarettePack_Chernamorka">
-		<nominal>30</nominal>
-		<lifetime>2700</lifetime>
-		<restock>0</restock>
-		<min>30</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="tools"/>
-		<tag name="shelves"/>
-		<usage name="Town"/>
-		<usage name="Village"/>
-	</type>
+    <nominal>30</nominal>
+    <lifetime>2700</lifetime>
+    <restock>0</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+   </type>
   <type name="CigarettePack_Merkur">
-		<nominal>30</nominal>
-		<lifetime>2700</lifetime>
-		<restock>0</restock>
-		<min>30</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="tools"/>
-		<tag name="shelves"/>
-		<usage name="Town"/>
-		<usage name="Village"/>
-	</type>
+    <nominal>30</nominal>
+    <lifetime>2700</lifetime>
+    <restock>0</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+   </type>
   <type name="CigarettePack_Partyzanka">
-		<nominal>30</nominal>
-		<lifetime>2700</lifetime>
-		<restock>0</restock>
-		<min>30</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="tools"/>
-		<tag name="shelves"/>
-		<usage name="Town"/>
-		<usage name="Village"/>
-	</type>
+    <nominal>30</nominal>
+    <lifetime>2700</lifetime>
+    <restock>0</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+   </type>
   
 </types>
