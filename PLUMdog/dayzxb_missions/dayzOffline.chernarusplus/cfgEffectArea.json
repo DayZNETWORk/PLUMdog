@@ -1,693 +1,81 @@
 {
-  "Areas": [
-    {
-      "AreaName": "Cherno crash smoke 1",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          6547.45,
-          29.0317,
-          2325.44
-        ],
-        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
-      }
-    },
-    {
-      "AreaName": "Cherno crash fire 1",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          6547.45,
-          29.0317,
-          2325.44
-        ],
-        "ParticleName": "graphics/particles/fire_bonfire"
-      }
-    },
-    {
-      "AreaName": "Cherno crash smoke 2",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          6543.78,
-          6.78161,
-          2306.46
-        ],
-        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
-      }
-    },
-    {
-      "AreaName": "Cherno crash fire 2",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          6543.78,
-          6.78161,
-          2306.46
-        ],
-        "ParticleName": "graphics/particles/fire_bonfire"
-      }
-    },
-    {
-      "AreaName": "Cherno crash smoke 3",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          6526.48,
-          7.61986,
-          2339.38
-        ],
-        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
-      }
-    },
-    {
-      "AreaName": "Cherno crash fire 3",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          6526.48,
-          7.61986,
-          2339.38
-        ],
-        "ParticleName": "graphics/particles/fire_bonfire"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 1",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7857.33935546875,
-          343.92999267578125,
-          14641.2109375
-        ],
-        "ParticleName": "graphics/particles/smoke_rdg2_test_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 2",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7835.89208984375,
-          343.92767333984375,
-          14674.5009765625
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 3",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7866.818359375,
-          343.9299621582031,
-          14653.2607421875
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 4",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7934.56103515625,
-          342.02813720703125,
-          14691.0869140625
-        ],
-        "ParticleName": "graphics/particles/fire_small_flare_yellow_01"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 5",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7859.27880859375,
-          331.60003662109375,
-          14569.560546875
-        ],
-        "ParticleName": "graphics/particles/smoke_m18_purple_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 6",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7781.080078125,
-          349.9190368652344,
-          14714.61328125
-        ],
-        "ParticleName": "graphics/particles/smoke_rdg2_test_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 7",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7806.9423828125,
-          351.489990234375,
-          14743.267578125
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 8",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7821.87451171875,
-          330.36517333984375,
-          14578.0224609375
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 9",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7921.24169921875,
-          337.75323486328125,
-          14579.0234375
-        ],
-        "ParticleName": "graphics/particles/smoke_m18_purple_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 10",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          8012.353515625,
-          339.8539733886719,
-          14671.126953125
-        ],
-        "ParticleName": "graphics/particles/smoke_rdg2_test_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 11",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7995.70703125,
-          338.246826171875,
-          14589.267578125
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 12",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          8069.10205078125,
-          339.99932861328125,
-          14614.166015625
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 13",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          8056.576171875,
-          339.9375915527344,
-          14669.4541015625
-        ],
-        "ParticleName": "graphics/particles/smoke_m18_purple_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 14",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7797.75146484375,
-          325.124267578125,
-          14553.4208984375
-        ],
-        "ParticleName": "graphics/particles/smoke_rdg2_test_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 15",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7845.32470703125,
-          331.22100830078125,
-          14556.28125
-        ],
-        "ParticleName": "graphics/particles/fire_small_flare_yellow_01"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 16",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7855.92041015625,
-          354.5941162109375,
-          14793.9521484375
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 17",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7887.04248046875,
-          345.1866455078125,
-          14743.017578125
-        ],
-        "ParticleName": "graphics/particles/smoke_m18_purple_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 18",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7820.28662109375,
-          347.2601318359375,
-          14710.326171875
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 19",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7860.0810546875,
-          332.635498046875,
-          14594.208984375
-        ],
-        "ParticleName": "graphics/particles/smoke_m18_purple_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 20",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7820.40869140625,
-          328.37298583984375,
-          14562.6181640625
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 21",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7898.34423828125,
-          337.22967529296875,
-          14613.66796875
-        ],
-        "ParticleName": "graphics/particles/fire_small_flare_yellow_01"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 22",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7919.44921875,
-          337.5296936035156,
-          14617.2451171875
-        ],
-        "ParticleName": "graphics/particles/smoke_m18_purple_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 23",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7921.3984375,
-          339.2047119140625,
-          14661.1416015625
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 24",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7976.85009765625,
-          339.0101013183594,
-          14652.3955078125
-        ],
-        "ParticleName": "graphics/particles/smoke_m18_purple_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 25",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7972.28662109375,
-          338.1474609375,
-          14571.0400390625
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 26",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7948.89453125,
-          338.1143493652344,
-          14566.783203125
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 27",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7931.142578125,
-          346.00823974609375,
-          14716.9130859375
-        ],
-        "ParticleName": "graphics/particles/fire_small_flare_yellow_01"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 28",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          8073.31396484375,
-          341.421875,
-          14656.111328125
-        ],
-        "ParticleName": "graphics/particles/smoke_rdg2_test_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 29",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          8075.7939453125,
-          339.81011962890625,
-          14637.4375
-        ],
-        "ParticleName": "graphics/particles/smoke_m18_purple_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 30",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          8051.3046875,
-          339.52337646484375,
-          14589.1796875
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 31",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          8029.6201171875,
-          337.8484802246094,
-          14578.998046875
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 32",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          8003.99365234375,
-          358.9673156738281,
-          14703.7255859375
-        ],
-        "ParticleName": "graphics/particles/fire_small_flare_yellow_01"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 33",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          8015.88720703125,
-          358.6855773925781,
-          14684.5859375
-        ],
-        "ParticleName": "graphics/particles/smoke_rdg2_test_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 34",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7991.3388671875,
-          366.997314453125,
-          14721.7734375
-        ],
-        "ParticleName": "graphics/particles/smoke_m18_purple_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 35",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7960.78515625,
-          361.64654541015625,
-          14740.0185546875
-        ],
-        "ParticleName": "graphics/particles/smoke_m18_purple_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 36",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7768.1201171875,
-          353.53472900390625,
-          14733.884765625
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 37",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7822.8447265625,
-          345.26556396484375,
-          14618.8017578125
-        ],
-        "ParticleName": "graphics/particles/fire_small_flare_yellow_01"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 38",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7812.5419921875,
-          343.63079833984375,
-          14669.4267578125
-        ],
-        "ParticleName": "graphics/particles/smoke_rdg2_test_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 39",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7781.39501953125,
-          331.5965881347656,
-          14557.4560546875
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 40",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7873.8916015625,
-          327.6845703125,
-          14506.197265625
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 41",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7957.6416015625,
-          324.87664794921875,
-          14516.603515625
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 42",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          8040.76123046875,
-          327.9539794921875,
-          14542.2421875
-        ],
-        "ParticleName": "graphics/particles/smoke_rdg2_test_02"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 43",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          8001.306640625,
-          325.50946044921875,
-          14527.1943359375
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 44",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7899.8251953125,
-          321.9219970703125,
-          14509.861328125
-        ],
-        "ParticleName": "graphics/particles/toxic_cloud"
-      }
-    },
-    {
-      "AreaName": "Kamensk-Effect 45",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          8072.13037109375,
-          336.2388000488281,
-          14569.2177734375
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "Cherno-Prig-Effect 1",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          7240.1220703125,
-          30.73409652709961,
-          3071.025390625
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    },
-    {
-      "AreaName": "NWAF-Hotel",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          4632.82568359375,
-          373.12506103515625,
-          9589.5712890625
-        ],
-        "ParticleName": "graphics/particles/spooky_mist"
-      }
-    }
-  ]
+    "Areas": [{
+            "AreaName": "Cherno crash smoke 1",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    6547.45,
+                    29.0317,
+                    2325.44
+                ],
+                "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+            }
+        },
+        {
+            "AreaName": "Cherno crash fire 1",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    6547.45,
+                    29.0317,
+                    2325.44
+                ],
+                "ParticleName": "graphics/particles/fire_bonfire"
+            }
+        },
+        {
+            "AreaName": "Cherno crash smoke 2",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    6543.78,
+                    6.78161,
+                    2306.46
+                ],
+                "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+            }
+        },
+        {
+            "AreaName": "Cherno crash fire 2",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    6543.78,
+                    6.78161,
+                    2306.46
+                ],
+                "ParticleName": "graphics/particles/fire_bonfire"
+            }
+        },
+        {
+            "AreaName": "Cherno crash smoke 3",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    6526.48,
+                    7.61986,
+                    2339.38
+                ],
+                "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+            }
+        },
+        {
+            "AreaName": "Cherno crash fire 3",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    6526.48,
+                    7.61986,
+                    2339.38
+                ],
+                "ParticleName": "graphics/particles/fire_bonfire"
+            }
+        }
+    ]
 }
