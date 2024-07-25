@@ -64,11 +64,18 @@
             "./custom/Vavilovo_Compound.json",
             "./custom/converted-cave_build.json",
             "./custom/converted-remcave.json",
-            "./custom/FINALIZELVOL3FIX.json"
+            "./custom/FINALZELVOL3FIX.json",
+            "./custom/admin_sheds_cherno.json",
+            "./custom/TreeHouse.json",
+            "./custom/buildpallets.json",
+            "./custom/murph.json",
+            "./custom/growop.json",
+            "./custom/cherno_docks.json",
+            "./custom/krona_castle_falls.json",
+            "./custom/zub_castle.json",
+            "./custom/aircraft_carrier3.json"
         ],
-        "environmentMinTemps": [
-            -3.0,
-            -2.0,
+        "environmentMinTemps": [-3.0, -2.0,
             0.0,
             4.0,
             9.0,
