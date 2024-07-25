@@ -6876,9 +6876,12 @@
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="HeliCrash"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
   <type name="AKS74U">
         <nominal>48</nominal>
@@ -6936,19 +6939,22 @@
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="HeliCrash"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
    </type>
   <type name="AugShort">
-        <nominal>0</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>15</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
    </type>
@@ -7151,16 +7157,19 @@
         <usage name="Military"/>
     </type>
   <type name="FAL">
-        <nominal>24</nominal>
+        <nominal>36</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>36</min>
+        <min>30</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Military"/>
         <usage name="HeliCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
   <type name="FAMAS">
         <nominal>12</nominal>
@@ -7275,9 +7284,12 @@
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <usage name="HeliCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
   <type name="M16A2">
         <nominal>50</nominal>
@@ -7520,10 +7532,10 @@
         <usage name="Village"/>
     </type>
   <type name="SSG82">
-        <nominal>35</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>35</min>
+        <min>45</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7542,6 +7554,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="HeliCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
   <type name="SV98">
         <nominal>25</nominal>
@@ -7738,6 +7752,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="HeliCrash"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
   <type name="Vikhr">
         <nominal>65</nominal>
@@ -12625,7 +12641,7 @@
         <usage name="Village"/>
     </type>
   
- <!-- #################### MAGAZINES #################### -->
+<!-- #################### MAGAZINES #################### -->
   <type name="Mag_1911_7Rnd">
         <nominal>75</nominal>
         <lifetime>14400</lifetime>
@@ -17111,12 +17127,12 @@
         <usage name="Hunting"/>
     </type>
   
-  <!-- #################### TOOLS #################### -->
+<!-- #################### TOOLS #################### -->
   <type name="Anniversary_FireworksLauncher">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17289,10 +17305,10 @@
         <category name="tools"/>
     </type>
   <type name="FireworksLauncher">
-        <nominal>4</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
