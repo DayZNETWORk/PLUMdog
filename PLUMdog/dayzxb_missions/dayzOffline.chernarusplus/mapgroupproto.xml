@@ -18131,9 +18131,10 @@
 				</container>
 		</group>
 		<group name="StaticObj_Misc_SupplyBox3_DE" lootmax="10">
+				<usage name="Military" />
 				<usage name="Medic" />
 				<container name="lootFloor">
-						<category name="clothes" />
+						<category name="weapons" />
 						<category name="tools" />
 						<tag name="floor" />
 						<tag name="ground" />
