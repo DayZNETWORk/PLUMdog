@@ -1225,6 +1225,9 @@
 		<pos x="4920.057129" z="2595.620361" a="9.5863346" />
 		<pos x="10425.44531" z="5837.930664" a="277.32221" />
     </event>
+	<event name="Vehicle_Truck_Ironside">
+		<pos x="7889.7" y="155.519" z="12277.7" a="163.403"/>
+	</event>
 	<!-- deactived
     <event name="StaticPoliceCar">
 		<zone smin="0" smax="0" dmin="3" dmax="5" r="45" />
@@ -2059,7 +2062,6 @@
 		<pos x="4927.973" z="7844.380" a="0" y="333.543" group="Traffic_VMC"/>
 		<pos x="3518.464" z="9122.509" a="0" y="310.821" group="Traffic_Vybor"/>
 	</event>
-
 	<event name="VehicleTransitBus" />								  
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
