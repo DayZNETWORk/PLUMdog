@@ -86,6 +86,265 @@
             <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
         </children>
     </event>
+    <!-- Cherno Mortar Strikes -->
+    <event name="StaticCherno_Mortars_1">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>1.8</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+    <event name="StaticCherno_Mortars_2">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>2.6</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+    <event name="StaticCherno_Mortars_3">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>4.3</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+    <event name="StaticCherno_Mortars_4">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>7.8</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+    <event name="StaticCherno_Mortars_5">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>9.3</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+    <event name="StaticCherno_Mortars_6">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>12.4</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+<!-- Elektro Mortar Strikes -->
+    <event name="StaticElektro_Mortars_1">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>5.7</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+    <event name="StaticElektro_Mortars_2">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>12.4</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+    <event name="StaticElektro_Mortars_3">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>18.3</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+<!-- Balota Mortar Strikes -->
+    <event name="StaticBalota_Mortars_1">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>6.1</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+    <event name="StaticBalota_Mortars_2">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>3.5</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+    <event name="StaticBalota_Mortars_3">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>17.3</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+<!-- Southern Village Mortar Strikes -->
+    <event name="StaticSVillage_Mortars_1">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>17.3</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+    <event name="StaticSVillage_Mortars_2">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>17.3</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
+    <event name="StaticSVillage_Mortars_3">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>2</lifetime>
+        <restock>17.3</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="ExplosionTest" />
+        </children>
+    </event>
 <!-- Custom HeliCrash Sites -->
     <event name="StaticHeliTest">
         <nominal>15</nominal>
@@ -96,7 +355,7 @@
         <saferadius>200</saferadius>
         <distanceradius>200</distanceradius>
         <cleanupradius>200</cleanupradius>
-        <secondary>InfectedArmy</secondary>
+        <secondary>InfectedArmyHorde</secondary>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
@@ -203,9 +462,9 @@
         </children>
     </event>
     <event name="AnimalGoat">
-        <nominal>8</nominal>
-        <min>1</min>
-        <max>3</max>
+        <nominal>25</nominal>
+        <min>21</min>
+        <max>32</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -818,6 +1077,7 @@
         <saferadius>1000</saferadius>
         <distanceradius>1</distanceradius>
         <cleanupradius>1000</cleanupradius>
+        <secondary>InfectedArmyHorde</secondary>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
@@ -865,17 +1125,18 @@
     </event>
     <event name="StaticContaminatedArea">
         <nominal>0</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>1</min>
+        <max>1</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
         <distanceradius>120</distanceradius>
         <cleanupradius>0</cleanupradius>
+        <secondary>InfectedNBC</secondary>
         <flags deletable="1" init_random="1" remove_damaged="0"/>
         <position>fixed</position>
         <limit>parent</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="4" min="2" type="ContaminatedArea_Dynamic"/>
         </children>
@@ -904,7 +1165,7 @@
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>1000</cleanupradius>
-        <secondary>InfectedArmy</secondary>
+        <secondary>InfectedArmyHorde</secondary>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
@@ -924,7 +1185,7 @@
         <saferadius>1000</saferadius>
         <distanceradius>1000</distanceradius>
         <cleanupradius>1000</cleanupradius>
-        <secondary>InfectedArmy</secondary>
+        <secondary>InfectedArmyHorde</secondary>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>

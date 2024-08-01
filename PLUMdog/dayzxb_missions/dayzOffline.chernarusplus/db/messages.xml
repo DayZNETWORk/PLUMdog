@@ -38,6 +38,10 @@
         <repeat>13</repeat>
         <text>|| Interactions are encouraged, but may cost your life. </text>
     </message>
+    <message>
+        <repeat>13</repeat>
+        <text>|| Base Raid Damage Enabled Fridays - Sundays. Boosting into Bases is NOT allowed. </text>
+    </message>
 	<message>
         <delay>1</delay>
         <onconnect>1</onconnect>

@@ -76,6 +76,45 @@
                 ],
                 "ParticleName": "graphics/particles/fire_bonfire"
             }
+        },
+        {
+            "AreaName": "Zvir Summity Spooky 1",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    212.7169952392578,
+                    256.8810119628906,
+                    5961.81982421875
+                ],
+                "ParticleName": "graphics/particles/spooky_mist"
+            }
+        },
+        {
+            "AreaName": "Zvir Summity Spooky 2",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    262.1629943847656,
+                    253.94700622558595,
+                    5837.33984375
+                ],
+                "ParticleName": "graphics/particles/spooky_mist"
+            }
+        },
+        {
+            "AreaName": "Zvir Summity Spooky 3",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    184.26400756835938,
+                    258.8900146484375,
+                    5931.18017578125
+                ],
+                "ParticleName": "graphics/particles/spooky_mist"
+            }
         }
     ]
 }

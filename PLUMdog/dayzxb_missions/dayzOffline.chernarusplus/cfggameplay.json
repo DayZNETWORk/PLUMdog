@@ -1,7 +1,7 @@
 {
     "version": 122,
     "GeneralData": {
-        "disableBaseDamage": false,
+        "disableBaseDamage": true,
         "disableContainerDamage": false,
         "disableRespawnDialog": false,
         "disableRespawnInUnconsciousness": true
@@ -72,8 +72,19 @@
             "./custom/growop.json",
             "./custom/cherno_docks.json",
             "./custom/krona_castle_falls.json",
+            "./custom/zvir_summit.json",
             "./custom/zub_castle.json",
-            "./custom/aircraft_carrier3.json"
+            "./custom/NE_camp_snoopy.json",
+            "./custom/VysotovoBase.json",
+            "./custom/SeverogradOverhaul.json",
+            "./custom/ChernoWestFuel.json",
+            "./custom/ChernoMilHill.json",
+            "./custom/PavlovoTrader.json",
+            "./custom/myshkino_town_apt.json",
+            "./custom/flag_outpost_supplies.json",
+            "./custom/myshkino_supplies.json",
+            "./custom/VyborOverhaul.json",
+            "./custom/ZelenogorskOverhaul.json"
         ],
         "environmentMinTemps": [-3.0, -2.0,
             0.0,
