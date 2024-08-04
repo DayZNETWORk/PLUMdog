@@ -9,47 +9,47 @@
         <repeat>20</repeat>
         <text>| In Remembrance of Taylor Feick aka MindFr34k - From Volsung, The Union, The Black Code, and The NETWORk* | R.I.P Grits'N'Scrill</text>
     </message>
-	<message>
-        <repeat>20</repeat>
+    <message>
+        <repeat>21</repeat>
         <text>|| With gratitude extended to all of our Premium Supporters + all who help projects like ours stay in operation.</text>
     </message>
-	<message>
+    <message>
         <repeat>17</repeat>
         <text>| Server Feedback can be submitted on our Discord for community vote.</text>
     </message>
-	<message>
-        <repeat>17</repeat>
+    <message>
+        <repeat>18</repeat>
         <text>|| For any questions or concerns regarding PLUM*, please contact The_Redeemed or RxmYxm via Discord.</text>
     </message>
-	<message>
+    <message>
         <repeat>13</repeat>
         <onconnect>0</onconnect>
         <text>| PLUM* Staff do not have access to log damage, placement, basebuilding, playerlist.</text>
     </message>
     <message>
         <repeat>9</repeat>
-        <text>| https://discord.gg/sUacYXp | The DayZ NETWORk* on Discord | 1st.Gen Survivors of the DayZ on Xbox Community | Est.Feb.16th.2019</text>
+        <text>| https://discord.gg/dayznetwork | The DayZ NETWORk* on Discord | 1st.Gen Survivors of the DayZ on Xbox Community | Est.Feb.16th.2019</text>
     </message>
-        <message>
-        <repeat>9</repeat>
+    <message>
+        <repeat>10</repeat>
         <text>|| Join our Discord to register or join a Faction, view Killfeed, Leaderboard progress and access exclusive services and content.</text>
     </message>
     <message>
-        <repeat>13</repeat>
-        <text>|| Interactions are encouraged, but may cost your life. </text>
+        <repeat>14</repeat>
+        <text>|| Interactions are encouraged, but may cost your life.</text>
     </message>
     <message>
-        <repeat>13</repeat>
-        <text>|| Base Raid Damage Enabled Fridays - Sundays. Boosting into Bases is NOT allowed. </text>
+        <repeat>15</repeat>
+        <text>|| Base Raid Damage Enabled Fridays - Sundays. Boosting into Bases is NOT allowed.</text>
     </message>
-	<message>
+    <message>
         <delay>1</delay>
         <onconnect>1</onconnect>
-        <text>| Player spawn points are set to Chernogorsk.</text>
+        <text>| Player spawn points are set to Chernogorsk. Explore the map for immersive overhauled cities and towns.</text>
     </message>
     <message>
         <delay>1</delay>
         <onconnect>1</onconnect>
         <text>|| Welcome to PLUM* hosted by The DayZ NETWORk* | v1.25</text>
-    </message>														
+    </message>
 </messages>

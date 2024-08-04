@@ -84,7 +84,16 @@
             "./custom/flag_outpost_supplies.json",
             "./custom/myshkino_supplies.json",
             "./custom/VyborOverhaul.json",
-            "./custom/ZelenogorskOverhaul.json"
+            "./custom/ZelenogorskOverhaul.json",
+            "./custom/BerenzinoMilCompound.json",
+            "./custom/GorkaOverhaul.json",
+            "./custom/KabaninoOverhaul.json",
+            "./custom/NovySobor118.json",
+            "./custom/shoreside_estates.json",
+            "./custom/SolnichniyOverhaul.json",
+            "./custom/StaroyeOverhaul.json",
+            "./custom/stary_sobor.json",
+            "./custom/kamenka.json"
         ],
         "environmentMinTemps": [-3.0, -2.0,
             0.0,
