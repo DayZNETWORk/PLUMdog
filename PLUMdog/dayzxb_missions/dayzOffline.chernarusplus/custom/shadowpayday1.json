@@ -1,0 +1,102 @@
+{
+    "name": "payday1",
+    "spawnWeight": 1,
+    "characterTypes": [],
+    "attachmentSlotItemSets": [
+        {
+            "slotName": "Body",
+            "discreteItemSets": [
+                {
+                    "itemType": "Hoodie_Red",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.2,
+                        "healthMax": 0.6,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [
+                        "Glock19",
+                        "Mag_Glock_15Rnd",
+                        "Mag_Glock_15Rnd",
+                        "BakedBeansCan_Opened",
+                        "WaterBottle",
+                        "BoneKnife",
+                        "ChernarusMap"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": true
+                }
+            ]
+        },
+        {
+            "slotName": "Legs",
+            "discreteItemSets": [
+                {
+                    "itemType": "Jeans_Black",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.2,
+                        "healthMax": 0.6,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [
+                        "Ammo_12gaPellets",
+                        "PersonalRadio",
+                        "Battery9V",
+                        "Ammo_12gaSlug",
+                        "Chemlight_Blue",
+                        "BandageDressing",
+                        "Plum",
+                        "Plum"
+
+                    ],
+                    "simpleChildrenUseDefaultAttributes": true
+                }
+            ]
+        },
+        {
+            "slotName": "Hands",
+            "discreteItemSets": [
+                {
+                "itemType": "Mp133Shotgun",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": true
+                }
+            ]
+        },
+        {
+            "slotName": "Feet",
+            "discreteItemSets": [
+                {
+                    "itemType": "AthleticShoes_Black",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": true
+                }
+            ]
+        }
+    ],
+    "discreteUnsortedItemSets": []
+}

@@ -6,9 +6,10 @@
         <text>| PLUM* will restart in roughly #tmin minutes. Stay down for the come up.</text>
     </message>
     <message>
-        <repeat>20</repeat>
+        <repeat>63</repeat>
         <text>| In Remembrance of Taylor Feick aka MindFr34k - From Volsung, The Union, The Black Code, and The NETWORk* | R.I.P Grits'N'Scrill</text>
     </message>
+<<<<<<< Updated upstream
 	<message>
         <repeat>20</repeat>
         <text>|| With gratitude extended to all of our Premium Supporters + all who help projects like ours stay in operation.</text>
@@ -23,10 +24,27 @@
     </message>
 	<message>
         <repeat>13</repeat>
+=======
+    <message>
+        <repeat>47</repeat>
+        <text>|| With gratitude extended to all of our Premium Supporters + all who help projects like ours stay in operation.</text>
+    </message>
+    <message>
+        <repeat>53</repeat>
+        <text>| Server Feedback can be submitted on our Discord for community vote.</text>
+    </message>
+    <message>
+        <repeat>7</repeat>
+        <text>|| For any questions or concerns regarding PLUM*, please contact iLLMannerSevs or RxmYxm via Discord.</text>
+    </message>
+    <message>
+        <repeat>26</repeat>
+>>>>>>> Stashed changes
         <onconnect>0</onconnect>
         <text>| PLUM* Staff do not have access to log damage, placement, basebuilding, playerlist.</text>
     </message>
     <message>
+<<<<<<< Updated upstream
         <repeat>9</repeat>
         <text>| https://discord.gg/sUacYXp | The DayZ NETWORk* on Discord | 1st.Gen Survivors of the DayZ on Xbox Community | Est.Feb.16th.2019</text>
     </message>
@@ -42,10 +60,32 @@
         <delay>1</delay>
         <onconnect>1</onconnect>
         <text>| Player spawn points are set to Chernogorsk.</text>
+=======
+        <repeat>15</repeat>
+        <text>| https://discord.gg/dayznetwork | The DayZ NETWORk* on Discord | 1st.Gen Survivors of the DayZ on Xbox Community | Est.Feb.16th.2019</text>
+    </message>
+    <message>
+        <repeat>18</repeat>
+        <text>|| Interactions are encouraged, but may cost your life.</text>
+    </message>
+    <message>
+        <repeat>13</repeat>
+        <text>|| Base Raid Damage Enabled Fridays - Sundays. Boosting into Bases is NOT allowed.</text>
+>>>>>>> Stashed changes
     </message>
     <message>
         <delay>1</delay>
         <onconnect>1</onconnect>
+<<<<<<< Updated upstream
         <text>|| Welcome to PLUM* hosted by The DayZ NETWORk*, v1.24.</text>
     </message>														
+=======
+        <text>| Player spawn points are set to Staroye, Zelenogorsk, Guglovo, and Kumyrna. Explore the map for immersive overhauled cities and towns.</text>
+    </message>
+    <message>
+        <delay>1</delay>
+        <onconnect>1</onconnect>
+        <text>|| Welcome to PLUM* hosted by The DayZ NETWORk* | v1.25</text>
+    </message>
+>>>>>>> Stashed changes
 </messages>

@@ -1,0 +1,120 @@
+{
+    "name": "payday3",
+    "spawnWeight": 1,
+    "characterTypes": [],
+    "attachmentSlotItemSets": [
+        {
+            "slotName": "Body",
+            "discreteItemSets": [
+                {
+                    "itemType": "Hoodie_Grey",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.2,
+                        "healthMax": 0.6,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [
+                        "Ammo_12gaSlug",
+                        "Ammo_12gaPellets",
+                        "PersonalRadio",
+                        "Battery9V",
+                        "BakedBeansCan_Opened",
+                        "WaterBottle",
+                        "CombatKnife",
+                        "ChernarusMap"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": true
+                }
+            ]
+        },
+        {
+            "slotName": "Legs",
+            "discreteItemSets": [
+                {
+                    "itemType": "Jeans_Brown",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.2,
+                        "healthMax": 0.6,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [
+                        "Ammo_357",
+                        "Ammo_357",
+                        "Chemlight_Green",
+                        "BandageDressing",
+                        "Plum",
+                        "Plum"
+
+                    ],
+                    "simpleChildrenUseDefaultAttributes": true
+                }
+            ]
+        },
+        {
+            "slotName": "Hands",
+            "discreteItemSets": [
+                {
+                "itemType": "SawedoffMagnum",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": true
+                }
+            ]
+        },
+        {
+            "slotName": "Feet",
+            "discreteItemSets": [
+                {
+                    "itemType": "AthleticShoes_Brown",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": true
+                }
+            ]
+        },
+        {
+            "slotName": "shoulderL",
+            "discreteItemSets": [
+                {
+                    "itemType": "Izh18Shotgun",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": true
+                }
+            ]
+        }
+    ],
+    "discreteUnsortedItemSets": []
+}

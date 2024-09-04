@@ -1791,10 +1791,35 @@
 		<pos x="4927.973" z="7844.380" a="0" y="333.543" group="Traffic_VMC"/>
 		<pos x="3518.464" z="9122.509" a="0" y="310.821" group="Traffic_Vybor"/>
 	</event>
+<<<<<<< Updated upstream
 
+=======
+<!-- Custom Cherno Heli Sites Events -->
+	<event name="Static_Cherno_HeliSites_lootable">
+		<zone smin="0" smax="0" dmin="1" dmax="5" r="50" />
+		<pos x="7074.23" y="215.405" z="4172.12" a="88.4147"/>
+		<pos x="7578" y="55.6203" z="3870.84" a="138.023"/>
+		<pos x="8540.31" y="261.101" z="3877.34" a="50.331"/>
+		<pos x="6764.95" y="48.2343" z="3365.72" a="-103.295"/>
+	</event>
+	<event name="Static_Cherno_HeliSites_tower_submerged">
+		<pos x="7159.41" y="39.5399" z="2929" a="-108"/>
+		<pos x="7061.7" y="39.4699" z="2898.36" a="-108"/>
+	</event>
+	<event name="Static_Cherno_HeliSites_crate">
+		<pos x="8550.46" y="260.08" z="3878.98" a="0"/>
+	</event>
+	<event name="Static_Cherno_HeliSites_firetruck">
+		<zone smin="0" smax="0" dmin="1" dmax="2" r="20" />
+		<pos x="8562.43" y="261.639" z="3892.94" a="8.98"/>
+	</event>
+<!-- Self-Closing Events -->
+>>>>>>> Stashed changes
 	<event name="VehicleTransitBus" />								  
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
+	<event name="InfectedArmyHorde" />
+	<event name="InfectedMasses" />
     <event name="InfectedArmy" />
     <event name="InfectedCity" />
     <event name="InfectedMedic" />

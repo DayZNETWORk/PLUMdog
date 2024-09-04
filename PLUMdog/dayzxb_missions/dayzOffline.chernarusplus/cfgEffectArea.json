@@ -1,5 +1,153 @@
 {
+<<<<<<< Updated upstream
     "Areas": [
 		
 	]
 }
+=======
+    "Areas": [{
+            "AreaName": "Cherno crash smoke 1",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    6547.45,
+                    29.0317,
+                    2325.44
+                ],
+                "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+            }
+        },
+        {
+            "AreaName": "Cherno crash fire 1",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    6547.45,
+                    29.0317,
+                    2325.44
+                ],
+                "ParticleName": "graphics/particles/fire_bonfire"
+            }
+        },
+        {
+            "AreaName": "Cherno crash smoke 2",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    6543.78,
+                    6.78161,
+                    2306.46
+                ],
+                "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+            }
+        },
+        {
+            "AreaName": "Cherno crash fire 2",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    6543.78,
+                    6.78161,
+                    2306.46
+                ],
+                "ParticleName": "graphics/particles/fire_bonfire"
+            }
+        },
+        {
+            "AreaName": "Cherno crash smoke 3",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    6526.48,
+                    7.61986,
+                    2339.38
+                ],
+                "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+            }
+        },
+        {
+            "AreaName": "Cherno crash fire 3",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    6526.48,
+                    7.61986,
+                    2339.38
+                ],
+                "ParticleName": "graphics/particles/fire_bonfire"
+            }
+        },
+        {
+            "AreaName": "Cherno Smoke Stack 1",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    7240.984375,
+                    64.93809509277344,
+                    3252.74609375
+                ],
+				"ParticleName": "graphics/particles/smoke_heli_wreck_01"}
+
+        },
+        {
+            "AreaName": "Cherno Smoke Stack 2",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    7681.31982421875,
+                    35.745201110839847,
+                    3204.489990234375
+                ],
+				"ParticleName": "graphics/particles/smoke_heli_wreck_01"}
+
+        },
+        {
+            "AreaName": "Cherno Smoke Stack 3",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    7826.39013671875,
+                    41.38359832763672,
+                    3057.35009765625
+                ],
+				"ParticleName": "graphics/particles/smoke_heli_wreck_01"}
+
+        },
+        {
+            "AreaName": "Cherno Smoke Stack 4",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    7373.1025390625,
+                    41.894203186035159,
+                    3342.578125
+                ],
+				"ParticleName": "graphics/particles/smoke_heli_wreck_01"}
+
+        },
+        {
+            "AreaName": "Cherno Smoke Stack 5",
+            "Type": "SpookyArea",
+            "TriggerType": "EffectTrigger",
+            "Data": {
+                "Pos": [
+                    7373.1025390625,
+                    41.894203186035159,
+                    3342.578125
+                ],
+				"ParticleName": "graphics/particles/smoke_M18_green_02"}
+
+        }
+    ]
+}
+>>>>>>> Stashed changes

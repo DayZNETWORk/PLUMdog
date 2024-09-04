@@ -414,7 +414,7 @@ the bagsSolitude would go first then the ZombieItemDropSolitude
 		<item name="ChestHolster" chance="0.60" />
 	</attachments>
 	<!--   VILLAGE ATTACHMENTS   -->
-	<attachments chance="0.60" name="hatsVillage">
+	<attachments chance="0.01" name="hatsVillage">
 		<item name="FlatCap_Black" chance="0.06" />
 		<item name="FlatCap_Blue" chance="0.06" />
 		<item name="FlatCap_Red" chance="0.06" />
@@ -453,7 +453,7 @@ the bagsSolitude would go first then the ZombieItemDropSolitude
 		<item name="DesignerGlasses" chance="0.20" />
 	</attachments>
 	<!--   CITY ATTACHMENTS   -->
-	<attachments chance="0.60" name="hatsCity">
+	<attachments chance="0.01" name="hatsCity">
 		<item name="FlatCap_BrownCheck" chance="0.07" />
 		<item name="FlatCap_GreyCheck" chance="0.07" />
 		<item name="FlatCap_BlackCheck" chance="0.07" />
@@ -557,7 +557,6 @@ the bagsSolitude would go first then the ZombieItemDropSolitude
 		<item name="Headtorch_Black" chance="0.10" />
 		<item name="Headtorch_Grey" chance="0.10" />
 		<item name="ZSh3PilotHelmet" chance="0.10" />
-		<item name="NVGHeadstrap" chance="0.10" />
 	</attachments>
 	<attachments chance="0.00" name="glassesArmy">
 		<!--was chance="0.10"; removed coz of attachment slot is missing -->
@@ -596,11 +595,6 @@ the bagsSolitude would go first then the ZombieItemDropSolitude
 	</attachments>
 	<attachments chance="0.60" name="HeavyHelmetArmy">
 		<item name="Ssh68Helmet" chance="0.16" />
-		<item name="BallisticHelmet_Black" chance="0.16" />
-		<item name="BallisticHelmet_Green" chance="0.16" />
-		<item name="BallisticHelmet_UN" chance="0.16" />
-		<item name="GorkaHelmet" chance="0.16" />
-		<item name="Mich2001Helmet" chance="0.16" />
 	</attachments>
 	<!--   POLICE ATTACHMENTS   -->
 	<attachments chance="0.60" name="hatsPolice">

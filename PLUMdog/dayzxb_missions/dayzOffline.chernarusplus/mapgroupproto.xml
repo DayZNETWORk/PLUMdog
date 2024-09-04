@@ -18149,7 +18149,7 @@
 				</container>
 		</group>
 <!-- Add Ons -->
-	<group name="Static_misc_gunrack" lootmax="4">
+	<!-- <group name="StaticObj_misc_gunrack" lootmax="4">
 		<usage name="Racked"/>
 			<dispatch>
 				<proxy type="Winchester70_Black" pos="0.310000 0.040000 0.315000" rpy="0 0 -90" />
@@ -18157,7 +18157,28 @@
 				<proxy type="M4A1_Green" pos="-0.310000 0.040000 -0.230000" rpy="0 0 -90" />
 				<proxy type="AK101_Green" pos="0.310000 0.040000 -0.230000" rpy="0 0 -90" />
 			</dispatch>
-	</group>
+	</group> -->
+	<!-- <group name="Static_misc_gunrack" lootmax="16">
+	<usage name="Racked_2"/>
+        <dispatch dechance="0.45">
+		    <proxy type="Winchester70" pos="0.410000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="Mosin9130" pos="0.305000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="AK101" pos="0.210000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="AK74" pos="-0.310000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="CZ550" pos="-0.105000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="SKS_Black" pos="0.410000 0.040000 0.115000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="SKS_Green" pos="0.305000 0.040000 0.115000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="PP19" pos="0.210000 0.040000 0.115000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="MP5K" pos="0.105000 0.040000 0.115000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="UMP45" pos="-0.405000 0.040000 0.115000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="Mp133Shotgun" pos="-0.310000 0.040000 0.115000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="SSG82" pos="-0.205000 0.040000 0.115000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="Scout_Livonia" pos="-0.105000 0.040000 0.115000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="AugShort" pos="-0.205000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="Winchester70" pos="0.310000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.20" />
+            <proxy type="VSS" pos="0.205000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.20" />
+        </dispatch>
+    </group -->
 	<group name="Wreck_Mi8_Crashed" lootmax="12">
 			<usage name="HeliCrash" />
 			<container name="lootFloor">

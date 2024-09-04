@@ -98,7 +98,7 @@
 	</type>
 	<type name="WaterproofBag_Yellow">
 	</type>
-	<!-- added 1.14 -->
+<!-- added 1.14 -->
 	<type name="AmmoBox">
 		<cargo chance="0.20">
 			<item name="AmmoBox_9x39_20Rnd" />
@@ -249,8 +249,12 @@
 			<item name="GasMask_Filter" chance="1.00" />
 		</cargo>
 	</type>
-	<type name="GasMask"></type>
-	<!-- NBC -->
+	<type name="GasMask">
+	<cargo chance="0.60">
+			<item name="GasMask_Filter" chance="1.00" />
+		</cargo>
+	</type>
+<!-- NBC -->
 	<type name="ZmbM_NBC_Grey">
 		<cargo preset="ContaminatedCargo" />
 	</type>
@@ -262,7 +266,15 @@
 			<item name="Mag_FAMAS_25Rnd" />
 		</attachments>
 	</type>
-	<!-- end -->
+<!-- end -->
+	<type name="ImprovisedExplosive">
+		<attachments chance="0.60">
+			<item name="Plastic_Explosive" chance="1.00" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="Plastic_Explosive" chance="1.00" />
+		</attachments>
+	</type>
 	<type name="SeaChest">
 		<cargo chance="0.60">
 			<item name="NailBox" />
@@ -499,25 +511,25 @@
 		</attachments>
 	</type>
 	<type name="NVGHeadstrap">
-		<attachments chance="0.0">
-			<item name="NVGoggles" chance="0.0"/>
+		<attachments chance="1.0">
+			<item name="NVGoggles" chance="1.0"/>
 		</attachments>
-		<attachments chance="0.60">
-			<item name="Battery9V" chance="0.0" />
+		<attachments chance="1.0">
+			<item name="Battery9V" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="Mich2001Helmet">
-		<attachments chance="0.0">
-			<item name="NVGoggles" chance="0.0" />
+		<attachments chance="1.0">
+			<item name="NVGoggles" chance="1.0" />
 		</attachments>
-		<attachments chance="0.0">
-			<item name="Battery9V" chance="0.0" />
-		</attachments>
-		<attachments chance="0.60">
-			<item name="UniversalLight" chance="1.00" />
+		<attachments chance="1.0">
+			<item name="Battery9V" chance="1.0" />
 		</attachments>
 		<attachments chance="0.60">
-			<item name="Battery9V" chance="1.00" />
+			<item name="UniversalLight" chance="1.0" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="Battery9V" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="PlateCarrierVest">
@@ -715,7 +727,6 @@
 			<item name="HuntingOptic" chance="1.00" />
 		</attachments>
 	</type>
-	
 	<type name="Winchester70_Black">  <!-- gun rack -->
 		<attachments chance="1.00">
 			<item name="HuntingOptic" chance="1.00" />
@@ -762,7 +773,6 @@
 			<item name="PUScopeOptic" chance="1.00" />
 		</attachments>
 	</type>
-
 	<type name="Mosin9130_Green">  <!-- gun rack -->
 		<attachments>
 			<item name="Mosin_Compensator" />
@@ -982,7 +992,6 @@
 			<item name="Mag_AK101_30Rnd" />
 		</attachments>
 	</type>
-
 	<type name="AK101_Green">  <!-- gunrack -->
 		<attachments chance="1.00">
 			<item name="AK_PlasticBttstck" chance="1.00" />
@@ -1224,7 +1233,7 @@
 			<item name="TetracyclineAntibiotics" />
 		</cargo>
 	</type>
-	<!-- OLGA White -->
+<!-- OLGA White -->
 	<type name="CivilianSedan">
 		<attachments chance="1.00">
 			<item name="CivSedanWheel" chance="1.00" />
@@ -1341,7 +1350,7 @@
 			<item name="CivSedanWheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- OLGA Black -->
+<!-- OLGA Black -->
 	<type name="CivilianSedan_Black">
 		<attachments chance="1.00">
 			<item name="CivSedanWheel" chance="1.00" />
@@ -1458,7 +1467,7 @@
 			<item name="CivSedanWheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- OLGA Wine -->
+<!-- OLGA Wine -->
 	<type name="CivilianSedan_Wine">
 		<attachments chance="1.00">
 			<item name="CivSedanWheel" chance="1.00" />
@@ -1575,7 +1584,7 @@
 			<item name="CivSedanWheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- ADA 4x4 Green -->
+<!-- ADA 4x4 Green -->
 	<type name="OffroadHatchback">
 		<attachments chance="1.00">
 			<item name="HatchbackWheel" chance="1.00" />
@@ -1684,7 +1693,7 @@
 			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- ADA 4x4 Blue -->
+<!-- ADA 4x4 Blue -->
 	<type name="OffroadHatchback_Blue">
 		<attachments chance="1.00">
 			<item name="HatchbackWheel" chance="1.00" />
@@ -1793,7 +1802,7 @@
 			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- ADA 4x4 White -->
+<!-- ADA 4x4 White -->
 	<type name="OffroadHatchback_White">
 		<attachments chance="1.00">
 			<item name="HatchbackWheel" chance="1.00" />
@@ -1902,7 +1911,7 @@
 			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- Gunter Red -->
+<!-- Gunter Red -->
 	<type name="Hatchback_02">
 		<attachments chance="1.00">
 			<item name="Hatchback_02_Wheel" chance="1.00" />
@@ -2019,7 +2028,7 @@
 			<item name="Hatchback_02_Wheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- Gunter Black -->
+<!-- Gunter Black -->
 	<type name="Hatchback_02_Black">
 		<attachments chance="1.00">
 			<item name="Hatchback_02_Wheel" chance="1.00" />
@@ -2136,7 +2145,7 @@
 			<item name="Hatchback_02_Wheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- Gunter Blue -->
+<!-- Gunter Blue -->
 	<type name="Hatchback_02_Blue">
 		<attachments chance="1.00">
 			<item name="Hatchback_02_Wheel" chance="1.00" />
@@ -2253,7 +2262,7 @@
 			<item name="Hatchback_02_Wheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- Sarka Yellow -->
+<!-- Sarka Yellow -->
 	<type name="Sedan_02">
 		<attachments chance="1.00">
 			<item name="Sedan_02_Wheel" chance="1.00" />
@@ -2370,7 +2379,7 @@
 			<item name="Sedan_02_Wheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- Sarka Grey -->
+<!-- Sarka Grey -->
 	<type name="Sedan_02_Grey">
 		<attachments chance="1.00">
 			<item name="Sedan_02_Wheel" chance="1.00" />
@@ -2487,7 +2496,7 @@
 			<item name="Sedan_02_Wheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- Sarka Red -->
+<!-- Sarka Red -->
 	<type name="Sedan_02_Red">
 		<attachments chance="1.00">
 			<item name="Sedan_02_Wheel" chance="1.00" />
@@ -2604,7 +2613,7 @@
 			<item name="Sedan_02_Wheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- truck -->
+<!-- truck -->
 	<type name="Truck_01_Covered">
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.00" />
@@ -2947,7 +2956,7 @@
 			<item name="TruckBattery" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- humvee -->
+<!-- humvee -->
 	<type name="Offroad_02">
 		<attachments chance="1.00">
 			<item name="Offroad_02_Wheel" chance="1.00" />
@@ -3030,7 +3039,7 @@
 			<item name="Offroad_02_Wheel" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- end added or changed -->
+<!-- end added or changed -->
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
@@ -3267,8 +3276,7 @@
 	</type>
 	<type name="SlingBag_Gray">
 		<cargo preset="foodArmy" />
-		<cargo preset="mixVillage" />
-								
+		<cargo preset="mixVillage" />							
 	</type>
 	<type name="SlingBag_Brown">
 		<cargo preset="foodArmy" />
@@ -3277,14 +3285,12 @@
 	<type name="HipPack_Black">
 		<cargo chance="0.6">
 			<item name="Zagorky" />
-		</cargo>
-		
+		</cargo>	
 	</type>
 	<type name="HipPack_Green">
 		<cargo chance="0.6">
 			<item name="Zagorky" />
 		</cargo>
-		
 	</type>
 	<type name="HipPack_Medical">
 		<cargo chance="0.6">
@@ -3558,8 +3564,6 @@
 	<type name="BDUPants">
 		<cargo preset="mixArmy" />
 	</type>
-	<!-- removed
-	<type name="NBCPantsGray"><cargo preset="foodArmy" /><cargo preset="toolsMedic" /><cargo chance="0.20"><item name="Mag_FNX45_15Rnd" chance="0.14" /><item name="Ammo_762x54" chance="0.14" /><item name="Ammo_762x39" chance="0.14" /></cargo></type> entry -->
 	<type name="Sweater_Gray">
 		<cargo preset="mixVillage" />
 	</type>
@@ -3934,8 +3938,6 @@
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 	</type>
-	<!-- removed
-	<type name="NBCJacketGray"></type> entry -->
 	<type name="DirtBikeHelmet_Black">
 		<attachments chance="0.60">
 			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
@@ -4072,8 +4074,8 @@
 			<item name="Derringer_Pink" chance="1.00" />
 		</cargo>
 	</type>
-	<!-- START OF ZOMBIES  -->
-	<!-- ARMY -->
+<!-- START OF ZOMBIES  -->
+<!-- ARMY -->
 	<type name="ZmbM_PatrolNormal_Autumn">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
@@ -5153,7 +5155,7 @@
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- XMAS -->
+<!-- XMAS -->
 	<type name="GiftBox_Small_1">
 		<cargo chance="0.35">
 			<item name="TLRLight" chance="0.60" />
@@ -5779,7 +5781,7 @@
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
-	<type name="M4A1">
+	<type name="M4A1_Black">
 		<attachments chance="1.00">
 			<item name="M4_OEBttstck" chance="1.00" />
 		</attachments>
