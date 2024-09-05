@@ -290,8 +290,7 @@ the bagsSolitude would go first then the ZombieItemDropSolitude
 	</cargo>
 	<!-- custom preset for plum gen x only -->
 	<cargo chance="0.60" name="ammoArmy">
-		<item name="Ammo_45ACP" chance="0.16" />
-		<item name="AmmoBox_45ACP_25Rnd" chance="0.16" />
+		<item name="AmmoBox_556x45Tracer_20Rnd" chance="0.16" />
 		<item name="Ammo_762x39" chance="0.16" />
 		<item name="AmmoBox_762x39_20Rnd" chance="0.16" />
 		<item name="Ammo_762x54" chance="0.16" />
@@ -300,7 +299,6 @@ the bagsSolitude would go first then the ZombieItemDropSolitude
 		<item name="AmmoBox_9x19_25Rnd" chance="0.25" />
 		<item name="Ammo_556x45" chance="0.25" />
 		<item name="AmmoBox_556x45_20Rnd" chance="0.25" />
-		<item name="Ammo_380" chance="0.12" />
 		<item name="AmmoBox_380_35Rnd" chance="0.12" />
 		<item name="Ammo_9x39" chance="0.12" />
 		<item name="AmmoBox_9x39_20Rnd" chance="0.12" />
@@ -378,8 +376,7 @@ the bagsSolitude would go first then the ZombieItemDropSolitude
 		<item name="BakedBeansCan" chance="0.06" />
 		<item name="TacticalBaconCan" chance="0.06" />
 		<item name="Canteen" chance="0.06" />
-		<item name="Ammo_45ACP" chance="0.06" />
-		<item name="AmmoBox_45ACP_25Rnd" chance="0.06" />
+		<item name="AmmoBox_556x45Tracer_20Rnd" chance="0.06" />
 		<item name="Ammo_762x39" chance="0.06" />
 		<item name="AmmoBox_762x39_20Rnd" chance="0.06" />
 		<item name="Ammo_762x54" chance="0.06" />
