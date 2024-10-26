@@ -59,20 +59,45 @@
 			<!-- terrain slope limits for valid spawn point -->
 			<min_steepness>-45</min_steepness>
 			<max_steepness>45</max_steepness>
-		</generator_params>
 		<!-- centers for grids of spawn points -->
+		</generator_params>
+		<!-- group parameters for coordinate groups -->
+		<group_params>
+            <enablegroups>true</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>120</lifetime>
+            <counter>-1</counter>
+        </group_params>
 		<generator_posbubbles>
 <!-- New Staroye Spawns -->
+		<group name="Staroye">
+			<pos x="10169.04" z="5294.49" />
+			<pos x="9982.40" z="5670.20" />
+			<pos x="10335.26" z="5555.50" />
 			<pos x="10193.5" z="5262.87" />
 			<pos x="10008.5" z="5578.56" />
-<!-- New Guglovo & Kumyrna Spawns
+		</group>
+<!-- New Novy & Stary Sobor Spawns -->
+		<group name="Novy Stary Sobor">
+			<pos x="7320.81" z="7606.61" />
+			<pos x="7000.02" z="7602.72" />
+			<pos x="7175.00" z="7806.86" />
+			<!-- Stary -->
+			<pos x="6083.34" z="7898.23" />
+			<pos x="6259.29" z="7429.69" />
+			<pos x="5850.04" z="7827.27" />
+			<!-- Guglovo-->
 			<pos x="8556.35" z="6650.3" />
 			<pos x="8493.41" z="6710.36" />
-			<pos x="8287.49" z="5999.11" />
-			<pos x="8469.16" z="6001.01" /> -->
+		</group>
 <!-- New Zelenogorsk Spawns -->
+		<group name="Zelenogorsk">
+			<pos x="2393.29" z="5371.77" />
+			<pos x="2796.70" z="5095.70" />
+			<pos x="2259.14" z="5070.42" />
 			<pos x="2484.77" z="4879.76" />
 			<pos x="2759.07" z="4976.83" />
+		</group>
 <!-- Zvir Spawns
 			<pos x="340.89" z="5738.50" />
 			<pos x="325.33" z="5890.10" />

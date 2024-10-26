@@ -1,0 +1,289 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_CementWorks_SiloBig2",
+            "pos": [
+                7537.88427734375,
+                28.03326988220215,
+                3009.570068359375
+            ],
+            "ypr": [
+                35.999996185302737,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_SiloBig1B",
+            "pos": [
+                7570.8876953125,
+                23.249732971191408,
+                3048.52734375
+            ],
+            "ypr": [
+                -53.999969482421878,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_CementWorks_SiloBig1Bridge",
+            "pos": [
+                7554.5,
+                39.40999984741211,
+                3026.929931640625
+            ],
+            "ypr": [
+                -53.999996185302737,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Pier_Concrete1",
+            "pos": [
+                7540.5498046875,
+                -16.058300018310548,
+                3004.3701171875
+            ],
+            "ypr": [
+                35.999996185302737,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Pier_Concrete1",
+            "pos": [
+                7534.5498046875,
+                -16.277000427246095,
+                3008.7099609375
+            ],
+            "ypr": [
+                35.99998092651367,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                7539.9404296875,
+                5.723464488983154,
+                3029.756591796875
+            ],
+            "ypr": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                7542.5615234375,
+                5.609552383422852,
+                3027.900634765625
+            ],
+            "ypr": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                7545.2080078125,
+                5.729374885559082,
+                3026.065673828125
+            ],
+            "ypr": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                7547.78125,
+                5.736011505126953,
+                3024.176513671875
+            ],
+            "ypr": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                7550.29248046875,
+                5.742795944213867,
+                3022.352783203125
+            ],
+            "ypr": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                7552.81982421875,
+                5.672312259674072,
+                3020.44921875
+            ],
+            "ypr": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                7555.40380859375,
+                5.66066312789917,
+                3018.554931640625
+            ],
+            "ypr": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                7557.974609375,
+                5.814620494842529,
+                3016.618896484375
+            ],
+            "ypr": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                7559.6708984375,
+                6.515692710876465,
+                3015.265869140625
+            ],
+            "ypr": [
+                98.99993133544922,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndL",
+            "pos": [
+                7560.20849609375,
+                6.553011417388916,
+                3014.755126953125
+            ],
+            "ypr": [
+                -170.99984741210938,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_CementWorks_ConveyorFurnace",
+            "pos": [
+                7547.4599609375,
+                21.795000076293947,
+                3003.3701171875
+            ],
+            "ypr": [
+                -144.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Pillbox",
+            "pos": [
+                7530.43310546875,
+                5.687929153442383,
+                3033.262939453125
+            ],
+            "ypr": [
+                -53.9998893737793,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_End2",
+            "pos": [
+                7837.2900390625,
+                5.524600028991699,
+                3171.27001953125
+            ],
+            "ypr": [
+                0.0006017701816745102,
+                6.03629207611084,
+                -2.2776401042938234
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_BlastCover2",
+            "pos": [
+                7861.8154296875,
+                5.831616401672363,
+                3169.26025390625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        }
+    ]
+}
